@@ -1,0 +1,182 @@
+,cond_label,cond,cond_cui
+0,6q24-Related Transient Neonatal Diabetes Mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C3711391>,C3711391
+1,Abnormal metabolic state due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0342290>,C0342290
+2,Acrocephalopolysyndactyly type 2,<https://uts.nlm.nih.gov/uts/umls/concept/C1275078>,C1275078
+3,Acute complication due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4546244>,C4546244
+4,"Alaninuria with Microcephaly, Dwarfism, Enamel Hypoplasia, and Diabetes Mellitus",<https://uts.nlm.nih.gov/uts/umls/concept/C1859965>,C1859965
+5,"Atherosclerosis, Premature, with Deafness, Nephropathy, Diabetes Mellitus, Photomyoclonus, and Degenerative Neurologic Disease",<https://uts.nlm.nih.gov/uts/umls/concept/C1859596>,C1859596
+6,Atypical diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4302120>,C4302120
+7,Blood glucose measurement,<https://uts.nlm.nih.gov/uts/umls/concept/C0392201>,C0392201
+8,Brittle diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C0342302>,C0342302
+9,Childhood Diabetes Mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C2827448>,C2827448
+10,Coma due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C1720029>,C1720029
+11,Complications of Diabetes Mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0342257>,C0342257
+12,"DIABETES MELLITUS, PERMANENT NEONATAL",<https://uts.nlm.nih.gov/uts/umls/concept/C1833104>,C1833104
+13,"DIABETES MELLITUS, PERMANENT NEONATAL, WITH NEUROLOGIC FEATURES",<https://uts.nlm.nih.gov/uts/umls/concept/C1833102>,C1833102
+14,"DIABETES MELLITUS, TRANSIENT NEONATAL, 2 (disorder)",<https://uts.nlm.nih.gov/uts/umls/concept/C1835887>,C1835887
+15,"DIABETES MELLITUS, TRANSIENT NEONATAL, 3 (disorder)",<https://uts.nlm.nih.gov/uts/umls/concept/C1864623>,C1864623
+16,"DIABETES MELLITUS, TRANSIENT, OF NEWBORN",<https://uts.nlm.nih.gov/uts/umls/concept/C0238086>,C0238086
+17,"Developmental Delay, Epilepsy, and Neonatal Diabetes",<https://uts.nlm.nih.gov/uts/umls/concept/C1853564>,C1853564
+18,"Diabetes Mellitus, Congenital Autoimmune",<https://uts.nlm.nih.gov/uts/umls/concept/C1857958>,C1857958
+19,"Diabetes Mellitus, Experimental",<https://uts.nlm.nih.gov/uts/umls/concept/C0011853>,C0011853
+20,"Diabetes Mellitus, Insulin-Dependent",<https://uts.nlm.nih.gov/uts/umls/concept/C0011854>,C0011854
+21,"Diabetes Mellitus, Insulin-Resistant, with Acanthosis Nigricans",<https://uts.nlm.nih.gov/uts/umls/concept/C0342278>,C0342278
+22,"Diabetes Mellitus, Ketosis-Prone",<https://uts.nlm.nih.gov/uts/umls/concept/C3837958>,C3837958
+23,"Diabetes Mellitus, Neonatal, with Congenital Hypothyroidism",<https://uts.nlm.nih.gov/uts/umls/concept/C1857775>,C1857775
+24,"Diabetes Mellitus, Non-Insulin-Dependent",<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>,C0011860
+25,"Diabetes Mellitus, Transient Neonatal, 1",<https://uts.nlm.nih.gov/uts/umls/concept/C1832386>,C1832386
+26,Diabetes in Children and Teens,<https://uts.nlm.nih.gov/uts/umls/concept/C3534592>,C3534592
+27,Diabetes mellitus associated with cystic fibrosis,<https://uts.nlm.nih.gov/uts/umls/concept/C1960626>,C1960626
+28,Diabetes mellitus associated with genetic syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0342274>,C0342274
+29,Diabetes mellitus due to genetic defect in beta cell function,<https://uts.nlm.nih.gov/uts/umls/concept/C2874125>,C2874125
+30,Diabetes mellitus due to genetic defect in insulin action,<https://uts.nlm.nih.gov/uts/umls/concept/C2874124>,C2874124
+31,Diabetes mellitus due to insulin receptor antibodies,<https://uts.nlm.nih.gov/uts/umls/concept/C0271701>,C0271701
+32,Diabetes mellitus due to pancreatic injury,<https://uts.nlm.nih.gov/uts/umls/concept/C3875503>,C3875503
+33,Diabetes mellitus due to structurally abnormal insulin,<https://uts.nlm.nih.gov/uts/umls/concept/C0271687>,C0271687
+34,Diabetes mellitus due to underlying condition,<https://uts.nlm.nih.gov/uts/umls/concept/C2873880>,C2873880
+35,Diabetes mellitus exacerbated,<https://uts.nlm.nih.gov/uts/umls/concept/C0235398>,C0235398
+36,"Diabetes mellitus in mother complicating pregnancy, childbirth AND/OR puerperium",<https://uts.nlm.nih.gov/uts/umls/concept/C0341893>,C0341893
+37,Diabetes mellitus in remission,<https://uts.nlm.nih.gov/uts/umls/concept/C3839440>,C3839440
+38,Diabetes mellitus precipitated,<https://uts.nlm.nih.gov/uts/umls/concept/C0235397>,C0235397
+39,Diabetes mellitus reactivated,<https://uts.nlm.nih.gov/uts/umls/concept/C0235399>,C0235399
+40,Diabetes mellitus with other specified manifestation,<https://uts.nlm.nih.gov/uts/umls/concept/C0342260>,C0342260
+41,Diabetes mellitus without complication,<https://uts.nlm.nih.gov/uts/umls/concept/C0271635>,C0271635
+42,Diabetes mellitus without mention of complication or manifestation,<https://uts.nlm.nih.gov/uts/umls/concept/C0865162>,C0865162
+43,"Diabetes mellitus, adult onset, with no mention of complication",<https://uts.nlm.nih.gov/uts/umls/concept/C0342265>,C0342265
+44,"Diabetes mellitus, chemical",<https://uts.nlm.nih.gov/uts/umls/concept/C0262448>,C0262448
+45,"Diabetes mellitus, juvenile type, with no mention of complication",<https://uts.nlm.nih.gov/uts/umls/concept/C0342264>,C0342264
+46,"Diabetes mellitus, leucine induced",<https://uts.nlm.nih.gov/uts/umls/concept/C0543572>,C0543572
+47,"Diabetes mellitus, neurogenic",<https://uts.nlm.nih.gov/uts/umls/concept/C0543570>,C0543570
+48,Diabetes self-management behavior,<https://uts.nlm.nih.gov/uts/umls/concept/C1319140>,C1319140
+49,Diabetes with other coma,<https://uts.nlm.nih.gov/uts/umls/concept/C0011870>,C0011870
+50,Diabetes with other complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0559093>,C0559093
+51,Diabetes with other specified manifestations,<https://uts.nlm.nih.gov/uts/umls/concept/C0154183>,C0154183
+52,Diabetes-deafness syndrome maternally transmitted (disorder),<https://uts.nlm.nih.gov/uts/umls/concept/C0342289>,C0342289
+53,Diabetic Angiopathies,<https://uts.nlm.nih.gov/uts/umls/concept/C0011875>,C0011875
+54,Diabetic Cardiomyopathies,<https://uts.nlm.nih.gov/uts/umls/concept/C0853897>,C0853897
+55,Diabetic Diet,<https://uts.nlm.nih.gov/uts/umls/concept/C0011878>,C0011878
+56,Diabetic Foot,<https://uts.nlm.nih.gov/uts/umls/concept/C0206172>,C0206172
+57,Diabetic Heart Disease,<https://uts.nlm.nih.gov/uts/umls/concept/C3534591>,C3534591
+58,Diabetic Ketoacidosis,<https://uts.nlm.nih.gov/uts/umls/concept/C0011880>,C0011880
+59,Diabetic Nephropathy,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>,C0011881
+60,Diabetic Nerve Problems,<https://uts.nlm.nih.gov/uts/umls/concept/C1456657>,C1456657
+61,Diabetic Neuropathies,<https://uts.nlm.nih.gov/uts/umls/concept/C0011882>,C0011882
+62,Diabetic Retinopathy,<https://uts.nlm.nih.gov/uts/umls/concept/C0011884>,C0011884
+63,Diabetic dermopathy,<https://uts.nlm.nih.gov/uts/umls/concept/C0406682>,C0406682
+64,Diabetic gastropathy,<https://uts.nlm.nih.gov/uts/umls/concept/C0860163>,C0860163
+65,Diabetic mastopathy,<https://uts.nlm.nih.gov/uts/umls/concept/C1167667>,C1167667
+66,Diabetic neuropathy with neurologic complication,<https://uts.nlm.nih.gov/uts/umls/concept/C1282941>,C1282941
+67,Diabetic peripheral angiopathy,<https://uts.nlm.nih.gov/uts/umls/concept/C0011871>,C0011871
+68,Disorder of eye due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0342245>,C0342245
+69,Disorder of nervous system due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C1720078>,C1720078
+70,Disorder of soft tissue due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0406681>,C0406681
+71,Donohue Syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0265344>,C0265344
+72,Drug or chemical induced diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C2873948>,C2873948
+73,Drug-induced diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0271646>,C0271646
+74,Erectile dysfunction due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4709217>,C4709217
+75,Feigenbaum Bergeron Richardson syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C2931125>,C2931125
+76,Furukawa Takagi Nakao syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C2931765>,C2931765
+77,Gangrene due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0554436>,C0554436
+78,Gestational Diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C0085207>,C0085207
+79,Gingival disease co-occurrent with diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4274674>,C4274674
+80,Gingivitis co-occurrent with diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4039625>,C4039625
+81,Hemoglobin A1c measurement,<https://uts.nlm.nih.gov/uts/umls/concept/C0474680>,C0474680
+82,Herrmann syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C1809475>,C1809475
+83,Houssay's syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C1263962>,C1263962
+84,How to Prevent Diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C1659987>,C1659987
+85,Hyperglycemia,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>,C0020456
+86,Hyperosmolar Hyperglycemic State,<https://uts.nlm.nih.gov/uts/umls/concept/C3888846>,C3888846
+87,Hyperosmolar coma due to type 2 diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0342297>,C0342297
+88,Hyperproinsulinemia,<https://uts.nlm.nih.gov/uts/umls/concept/C0342283>,C0342283
+89,Hypoglycemic Agents,<https://uts.nlm.nih.gov/uts/umls/concept/C0020616>,C0020616
+90,Insulin autoimmune syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0854359>,C0854359
+91,Insulin treated type 2 diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0342266>,C0342266
+92,Insulin-dependent diabetes mellitus with other specified complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0342261>,C0342261
+93,Insulin-resistant diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0854110>,C0854110
+94,Lactic acidosis due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4543813>,C4543813
+95,Latent Autoimmune Diabetes in Adults,<https://uts.nlm.nih.gov/uts/umls/concept/C1739108>,C1739108
+96,Latent autoimmune diabetes mellitus in adult,<https://uts.nlm.nih.gov/uts/umls/concept/C1960272>,C1960272
+97,Lipoatrophic Diabetes Mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0011859>,C0011859
+98,"Lipoatrophy with diabetes, hepatic steatosis, cardiomyopathy, and leukomelanodermic papules",<https://uts.nlm.nih.gov/uts/umls/concept/C2931057>,C2931057
+99,Lumbosacral radiculoplexus neuropathy due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4510722>,C4510722
+100,Lymphedema-Distichiasis Syndrome with Renal Disease and Diabetes Mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C2675066>,C2675066
+101,"MATURITY-ONSET DIABETES OF THE YOUNG, TYPE 7 (disorder)",<https://uts.nlm.nih.gov/uts/umls/concept/C1864839>,C1864839
+102,Malnutrition related diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0271641>,C0271641
+103,Martinez-Frias Syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C1832443>,C1832443
+104,Maternal diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C1283034>,C1283034
+105,Maturity onset diabetes mellitus in young,<https://uts.nlm.nih.gov/uts/umls/concept/C0342276>,C0342276
+106,Metabolic Syndrome X,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>,C0524620
+107,Metabolic acidosis due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4543814>,C4543814
+108,Mitchell-Riley Syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C2748662>,C2748662
+109,Mitochondrial Diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C4330695>,C4330695
+110,Mitochondrial Myopathy with Diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C1839028>,C1839028
+111,Monogenic diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C3888631>,C3888631
+112,Multiple complications due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C2711205>,C2711205
+113,"Muscular Atrophy, Ataxia, Retinitis Pigmentosa, and Diabetes Mellitus",<https://uts.nlm.nih.gov/uts/umls/concept/C0342281>,C0342281
+114,Neonatal diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0158981>,C0158981
+115,Neovascular glaucoma due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4076158>,C4076158
+116,New Onset Diabetes After Transplant,<https://uts.nlm.nih.gov/uts/umls/concept/C3896643>,C3896643
+117,Non-insulin-dependent diabetes mellitus with other specified complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0342262>,C0342262
+118,Other specified diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0348447>,C0348447
+119,Other specified diabetes mellitus with coma,<https://uts.nlm.nih.gov/uts/umls/concept/C0348933>,C0348933
+120,Other specified diabetes mellitus with multiple complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0348938>,C0348938
+121,Other specified diabetes mellitus with other specified complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0348931>,C0348931
+122,Other specified diabetes mellitus with unspecified complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0348932>,C0348932
+123,Other specified diabetes mellitus without complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0494293>,C0494293
+124,PANCREATIC AND CEREBELLAR AGENESIS,<https://uts.nlm.nih.gov/uts/umls/concept/C1836780>,C1836780
+125,"Pancreatic Hypoplasia, Congenital, with Diabetes Mellitus and Congenital Heart Disease",<https://uts.nlm.nih.gov/uts/umls/concept/C1838780>,C1838780
+126,Pancreatic beta cell agenesis with neonatal diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C1838655>,C1838655
+127,Peripheral vascular disorder due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C1719760>,C1719760
+128,Post transplant diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C1504532>,C1504532
+129,Posttransplant diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C2919615>,C2919615
+130,Pre-Gestational Diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C3828492>,C3828492
+131,"Pre-existing diabetes mellitus, unspecified",<https://uts.nlm.nih.gov/uts/umls/concept/C0477821>,C0477821
+132,Prediabetes syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>,C0362046
+133,"Pregestational diabetes mellitus AND/OR impaired glucose tolerance, modified White class R",<https://uts.nlm.nih.gov/uts/umls/concept/C0271670>,C0271670
+134,"Premature aging, Okamoto type",<https://uts.nlm.nih.gov/uts/umls/concept/C2930860>,C2930860
+135,Rabson-Mendenhall Syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0271695>,C0271695
+136,Radiculoplexoneuropathy due to diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C4511318>,C4511318
+137,Renal cysts and diabetes syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0431693>,C0431693
+138,SERUM GLUCOSE INCREASED,<https://uts.nlm.nih.gov/uts/umls/concept/C0595931>,C0595931
+139,Secondary diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0271640>,C0271640
+140,Steroid-induced diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C0342269>,C0342269
+141,Thiamine responsive megaloblastic anemia syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0342287>,C0342287
+142,Type 1 diabetes mellitus maturity onset,<https://uts.nlm.nih.gov/uts/umls/concept/C0581383>,C0581383
+143,Type I diabetes mellitus with hyperosmolar coma,<https://uts.nlm.nih.gov/uts/umls/concept/C0154172>,C0154172
+144,Type II diabetes mellitus without mention of complication,<https://uts.nlm.nih.gov/uts/umls/concept/C0546950>,C0546950
+145,"Unspecified diabetes mellitus with circulatory complication, unspecified",<https://uts.nlm.nih.gov/uts/umls/concept/C0837121>,C0837121
+146,Unspecified diabetes mellitus with coma,<https://uts.nlm.nih.gov/uts/umls/concept/C0494295>,C0494295
+147,Unspecified diabetes mellitus with hyperosmolarity,<https://uts.nlm.nih.gov/uts/umls/concept/C0851220>,C0851220
+148,Unspecified diabetes mellitus with ketoacidosis,<https://uts.nlm.nih.gov/uts/umls/concept/C0494296>,C0494296
+149,Unspecified diabetes mellitus with multiple complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0348939>,C0348939
+150,Unspecified diabetes mellitus with neurological complications,<https://uts.nlm.nih.gov/uts/umls/concept/C2362567>,C2362567
+151,Unspecified diabetes mellitus with ophthalmic complications,<https://uts.nlm.nih.gov/uts/umls/concept/C1744704>,C1744704
+152,Unspecified diabetes mellitus with other specified complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0494300>,C0494300
+153,Unspecified diabetes mellitus with renal complications,<https://uts.nlm.nih.gov/uts/umls/concept/C0348450>,C0348450
+154,Wolfram Syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0043207>,C0043207
+155,"Wolfram Syndrome, Mitochondrial Form",<https://uts.nlm.nih.gov/uts/umls/concept/C1838782>,C1838782
+156,Woodhouse Sakati syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C0342286>,C0342286
+157,Yorifuji Okuno syndrome,<https://uts.nlm.nih.gov/uts/umls/concept/C2931296>,C2931296
+158,diabetes mellitus due to clinically defined subtypes or syndromes,<https://uts.nlm.nih.gov/uts/umls/concept/C4736101>,C4736101
+159,diabetes mellitus due to diseases of endocrinopathies,<https://uts.nlm.nih.gov/uts/umls/concept/C4736099>,C4736099
+160,diabetes mellitus due to diseases of exocrine pancreas,<https://uts.nlm.nih.gov/uts/umls/concept/C4736098>,C4736098
+161,diabetes mellitus due to uncommon forms of immune-mediated diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C4736100>,C4736100
+162,diabetes mellitus under control,<https://uts.nlm.nih.gov/uts/umls/concept/C2062378>,C2062378
+163,diabetes mellitus with hyperosmolarity,<https://uts.nlm.nih.gov/uts/umls/concept/C0375121>,C0375121
+164,diabetes mellitus with microvascular complications,<https://uts.nlm.nih.gov/uts/umls/concept/C3837959>,C3837959
+165,diabetes mellitus with microvascular complications - MVCD1,<https://uts.nlm.nih.gov/uts/umls/concept/C3837966>,C3837966
+166,diabetes mellitus with microvascular complications - MVCD2,<https://uts.nlm.nih.gov/uts/umls/concept/C3837965>,C3837965
+167,diabetes mellitus with microvascular complications - MVCD3,<https://uts.nlm.nih.gov/uts/umls/concept/C3837964>,C3837964
+168,diabetes mellitus with microvascular complications - MVCD4,<https://uts.nlm.nih.gov/uts/umls/concept/C3837963>,C3837963
+169,diabetes mellitus with microvascular complications - MVCD5,<https://uts.nlm.nih.gov/uts/umls/concept/C3837962>,C3837962
+170,diabetes mellitus with microvascular complications - MVCD6,<https://uts.nlm.nih.gov/uts/umls/concept/C3837961>,C3837961
+171,diabetes mellitus with microvascular complications - MVCD7,<https://uts.nlm.nih.gov/uts/umls/concept/C3837960>,C3837960
+172,diabetes mellitus with oral cavity manifestations,<https://uts.nlm.nih.gov/uts/umls/concept/C3250577>,C3250577
+173,"diabetes with diabetic macular edema, resolved following treatment",<https://uts.nlm.nih.gov/uts/umls/concept/C4272977>,C4272977
+174,diabetes with stable proliferative diabetic retinopathy,<https://uts.nlm.nih.gov/uts/umls/concept/C4272973>,C4272973
+175,diabetic hypoglycemia,<https://uts.nlm.nih.gov/uts/umls/concept/C0865166>,C0865166
+176,diabetic ophthalmopathy,<https://uts.nlm.nih.gov/uts/umls/concept/C0920358>,C0920358
+177,poorly controlled diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0554876>,C0554876
+178,pregnancy complicated by chronic diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C3646651>,C3646651
+179,stable; diabetes,<https://uts.nlm.nih.gov/uts/umls/concept/C0241861>,C0241861
+180,virus related diabetes mellitus,<https://uts.nlm.nih.gov/uts/umls/concept/C0597655>,C0597655

@@ -1,0 +1,437 @@
+,patient,last_readmit_dt,gender,dob,reason
+0,<http://franz.com/synthea#ff8843d1-a7b0-f686-e1fd-8cc531d53d5b>,2017-11-17 17:18:55+00:00,F,1996-08-03 00:00:00+00:00,Tubal pregnancy
+1,<http://franz.com/synthea#8873dcaa-e2d3-7752-815e-e72345e69546>,2013-08-27 15:44:44+00:00,F,1985-11-26 00:00:00+00:00,Drug overdose
+2,<http://franz.com/synthea#e00d1dac-2445-2fdb-7bb8-c471bbe29ad4>,2013-08-17 05:33:39+00:00,F,1972-01-05 00:00:00+00:00,Risk activity involvement (finding)
+3,<http://franz.com/synthea#93b22afb-7218-3ec1-4bed-70d29b25a5fb>,2012-10-21 01:10:23+00:00,F,1970-11-14 00:00:00+00:00,Normal pregnancy
+4,<http://franz.com/synthea#1fb4b8c9-3949-0fe6-c8d3-419d8357aa9f>,2014-06-07 06:10:02+00:00,M,1963-10-10 00:00:00+00:00,Anemia (disorder)
+5,<http://franz.com/synthea#4cfca277-82e0-2ec0-c9f6-12f14d5f99cb>,2020-02-03 16:33:16+00:00,F,1965-05-10 00:00:00+00:00,Anemia (disorder)
+6,<http://franz.com/synthea#9cbe6ac1-0976-bffe-0de8-089e2fd7dd36>,2014-08-20 14:29:26+00:00,F,1968-06-11 00:00:00+00:00,Tubal pregnancy
+7,<http://franz.com/synthea#4276d7b0-1bcf-d5a8-0fbb-5ab9c0d1fdf3>,2019-04-01 14:38:29+00:00,F,1965-03-03 00:00:00+00:00,Viral sinusitis (disorder)
+8,<http://franz.com/synthea#e0877628-e446-d976-dfbf-186b41f2acf9>,2021-09-21 02:02:49+00:00,F,1976-12-27 00:00:00+00:00,Victim of intimate partner abuse (finding)
+9,<http://franz.com/synthea#a66cfb3a-8087-f1b7-096a-c614a60f2c48>,2013-02-15 23:32:24+00:00,F,1988-08-22 00:00:00+00:00,Anemia (disorder)
+10,<http://franz.com/synthea#74cd3c02-cb07-2f25-19ca-c740e53c5c41>,2008-12-02 03:50:27+00:00,F,1993-10-25 00:00:00+00:00,Drug overdose
+11,<http://franz.com/synthea#ed17045e-bdd2-9e8c-63a1-f5c8c8acf94f>,2015-07-11 00:47:17+00:00,F,1994-11-18 00:00:00+00:00,Normal pregnancy
+12,<http://franz.com/synthea#e1f58029-64a8-91d4-6321-b5ea6740dff9>,1990-07-17 12:02:26+00:00,F,1972-12-25 00:00:00+00:00,Impacted molars
+13,<http://franz.com/synthea#3b6ce250-492b-159b-85eb-f43a77ade528>,2017-03-18 04:10:33+00:00,F,1967-12-18 00:00:00+00:00,Tubal pregnancy
+14,<http://franz.com/synthea#c2ff52ca-a3f4-52e2-b986-d5a1d850def8>,2022-01-15 15:04:21+00:00,F,1979-06-03 00:00:00+00:00,Tubal pregnancy
+15,<http://franz.com/synthea#34479179-c2e8-4a37-676b-d2637bca702d>,2014-06-08 06:27:18+00:00,F,1977-11-24 00:00:00+00:00,Tubal pregnancy
+16,<http://franz.com/synthea#09c37661-a4ea-55bf-fd8d-6fbcc57bd6f9>,2015-01-08 04:48:17+00:00,F,1980-02-26 00:00:00+00:00,Normal pregnancy
+17,<http://franz.com/synthea#f6db93db-fbf4-6f3d-3263-25372f23ab58>,2013-01-10 11:21:25+00:00,F,1963-08-31 00:00:00+00:00,Viral sinusitis (disorder)
+18,<http://franz.com/synthea#051dc44b-c2a4-2606-2068-191e74c01d0d>,2013-10-19 20:43:52+00:00,F,1985-08-09 00:00:00+00:00,Anemia (disorder)
+19,<http://franz.com/synthea#d9b0ed97-9213-758e-12b1-54fb03bb966e>,2018-09-22 19:54:25+00:00,F,1998-03-15 00:00:00+00:00,Tubal pregnancy
+20,<http://franz.com/synthea#48e06134-f1ac-afa6-bfa3-5096b38d7f18>,2020-05-19 22:51:52+00:00,F,1953-08-09 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+21,<http://franz.com/synthea#520e84fb-32c4-d6fe-11c9-fc8b836809ba>,2011-10-15 21:11:17+00:00,F,1993-07-22 00:00:00+00:00,Hypertension
+22,<http://franz.com/synthea#dfe8e757-bee5-24c3-30ec-946b4d01138b>,2019-06-04 05:44:26+00:00,F,1984-08-27 00:00:00+00:00,Normal pregnancy
+23,<http://franz.com/synthea#ece2d7a0-5c65-a393-c9f3-b178e854938b>,2021-12-15 05:06:59+00:00,M,1987-09-28 00:00:00+00:00,Anemia (disorder)
+24,<http://franz.com/synthea#69d17716-0dc3-e654-b418-abed784b526e>,2009-05-16 02:10:34+00:00,F,1946-12-31 00:00:00+00:00,Sinusitis (disorder)
+25,<http://franz.com/synthea#0c9be3e8-b1cb-3b41-a62e-f40e1d8a68f4>,2020-07-08 07:33:45+00:00,M,1999-04-26 00:00:00+00:00,Anemia (disorder)
+26,<http://franz.com/synthea#65789a7e-aded-2946-c65e-96816ed83c79>,2012-10-31 03:56:31+00:00,F,1955-09-28 00:00:00+00:00,Victim of intimate partner abuse (finding)
+27,<http://franz.com/synthea#074e9683-804a-95cc-e369-d9e69cc4e004>,2021-04-13 22:57:44+00:00,M,1968-08-24 00:00:00+00:00,Injury of tendon of the rotator cuff of shoulder
+28,<http://franz.com/synthea#e5a9d534-ee62-1461-8ba2-0801516245ff>,2021-04-30 00:30:28+00:00,F,1977-07-23 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+29,<http://franz.com/synthea#0c82e652-7f59-4e40-0f08-f929fdb187fb>,2022-03-13 21:13:57+00:00,F,1988-07-29 00:00:00+00:00,Tubal pregnancy
+30,<http://franz.com/synthea#78cc9619-13f1-677a-512a-1d2a5cd6ecc9>,2013-05-20 01:18:24+00:00,F,1967-05-07 00:00:00+00:00,Normal pregnancy
+31,<http://franz.com/synthea#ceaa2954-ec7c-6a80-04ff-a841f682a992>,2018-06-28 01:59:59+00:00,M,1991-03-12 00:00:00+00:00,Anemia (disorder)
+32,<http://franz.com/synthea#2575dec6-0b8e-05e5-e499-255938ff4d3b>,2014-03-04 09:27:18+00:00,F,1993-02-11 00:00:00+00:00,Anemia (disorder)
+33,<http://franz.com/synthea#709904f6-2223-0647-3510-2355d7dc8ff9>,2021-11-29 01:37:45+00:00,F,1970-06-09 00:00:00+00:00,Malignant tumor of colon
+34,<http://franz.com/synthea#3bc93a0b-890a-38b2-2ab2-8b887082a2df>,2013-08-21 17:19:03+00:00,F,1971-02-13 00:00:00+00:00,Normal pregnancy
+35,<http://franz.com/synthea#9a44a8b3-23b4-46bd-e774-8f80bad8c57a>,2019-08-28 22:10:18+00:00,F,1992-12-16 00:00:00+00:00,Tubal pregnancy
+36,<http://franz.com/synthea#7625907f-82f3-6061-0e34-454979d8f8ba>,1990-04-24 20:25:51+00:00,M,1946-10-28 00:00:00+00:00,Hyperlipidemia
+37,<http://franz.com/synthea#ca0c18f6-067c-6d6b-02a5-5f862321841b>,2014-05-11 07:36:00+00:00,M,1997-02-28 00:00:00+00:00,Fracture of ankle
+38,<http://franz.com/synthea#77c14461-0c93-bcaa-b8c7-e9700bcd7668>,2022-02-09 00:33:14+00:00,F,1961-10-24 00:00:00+00:00,Chronic congestive heart failure (disorder)
+39,<http://franz.com/synthea#6e6e71d2-11dc-d88a-265e-7f3446ff526e>,2021-12-10 11:05:29+00:00,M,1953-08-18 00:00:00+00:00,Hyperlipidemia
+40,<http://franz.com/synthea#79c1e34a-e184-5dd7-551d-364fec0e26bf>,2016-05-06 13:13:12+00:00,F,1968-03-12 00:00:00+00:00,Tubal pregnancy
+41,<http://franz.com/synthea#f90adcb5-f3e6-ef18-0f41-b11a765046e2>,2020-06-02 11:58:23+00:00,F,1995-04-25 00:00:00+00:00,Normal pregnancy
+42,<http://franz.com/synthea#be653444-3f39-1fc7-b9db-795f8fff3ff7>,2021-05-09 00:16:14+00:00,M,1952-09-12 00:00:00+00:00,Malignant tumor of colon
+43,<http://franz.com/synthea#49fa1481-8014-32df-fe0b-14f198065ccb>,2015-04-03 01:36:24+00:00,F,1984-08-28 00:00:00+00:00,Tubal pregnancy
+44,<http://franz.com/synthea#f970b303-2e62-1b40-137f-8384098380c5>,1994-09-12 02:16:58+00:00,F,1966-05-15 00:00:00+00:00,Normal pregnancy
+45,<http://franz.com/synthea#4ca368eb-5648-9b8d-f0db-961bb4813daa>,2018-05-25 13:43:53+00:00,F,1980-05-08 00:00:00+00:00,Tubal pregnancy
+46,<http://franz.com/synthea#29aa2406-6161-f424-5600-7cc1cd7dd44b>,2019-10-17 00:04:03+00:00,F,1961-10-27 00:00:00+00:00,Primary fibromyalgia syndrome
+47,<http://franz.com/synthea#a6da8116-458c-b2da-7426-bee70a1ecf1b>,2014-04-06 22:17:51+00:00,F,1956-04-09 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+48,<http://franz.com/synthea#86596703-2637-436c-a705-d8d526920953>,2018-08-11 08:51:23+00:00,F,1982-08-30 00:00:00+00:00,Acute viral pharyngitis (disorder)
+49,<http://franz.com/synthea#ca360767-cde6-3599-a787-cd5f2cfde0c5>,2013-07-05 20:57:30+00:00,F,1945-08-28 00:00:00+00:00,Malignant tumor of colon
+50,<http://franz.com/synthea#c252b4fd-16fe-b5a5-9284-a5edfb26cbf1>,2019-08-06 20:09:53+00:00,F,1982-05-17 00:00:00+00:00,Anemia (disorder)
+51,<http://franz.com/synthea#fb5d687c-f5dc-88d0-82d9-038172c9ab81>,2021-02-04 12:31:48+00:00,F,1959-08-06 00:00:00+00:00,Acute bronchitis (disorder)
+52,<http://franz.com/synthea#2ae48d26-eb46-2352-80ba-c827022b142b>,2017-05-17 13:57:18+00:00,F,1968-12-25 00:00:00+00:00,Malignant tumor of colon
+53,<http://franz.com/synthea#ddcf1ec7-6246-74a2-6396-4171142113be>,1990-07-15 22:15:27+00:00,F,1944-08-20 00:00:00+00:00,Normal pregnancy
+54,<http://franz.com/synthea#14008f09-157b-dc8d-6d1d-00b47d14fc91>,2020-03-26 08:11:34+00:00,F,1952-08-04 00:00:00+00:00,Malignant tumor of colon
+55,<http://franz.com/synthea#fd8c8904-9211-7916-662a-81f8c193961e>,2015-08-01 18:37:36+00:00,F,1992-01-16 00:00:00+00:00,Tubal pregnancy
+56,<http://franz.com/synthea#3317dd36-1536-950d-47cd-dfb57283f38b>,2021-11-15 21:12:17+00:00,F,1988-07-10 00:00:00+00:00,Normal pregnancy
+57,<http://franz.com/synthea#48cbbd5f-6af1-1e0a-82fe-6000d6948ec6>,2019-03-02 22:31:55+00:00,F,1964-04-30 00:00:00+00:00,Victim of intimate partner abuse (finding)
+58,<http://franz.com/synthea#7b29f35a-9074-8023-c01f-77afc6941b4d>,2017-01-21 09:46:36+00:00,F,1993-07-10 00:00:00+00:00,Normal pregnancy
+59,<http://franz.com/synthea#0599f0e7-c762-47eb-a3d9-aa3f64210a11>,2018-03-08 06:19:58+00:00,F,1963-05-30 00:00:00+00:00,Reports of violence in the environment (finding)
+60,<http://franz.com/synthea#2ec1c0b2-ac14-bc82-c3a1-59688d652ed6>,2020-11-10 14:06:58+00:00,M,1969-03-29 00:00:00+00:00,Overlapping malignant neoplasm of colon
+61,<http://franz.com/synthea#b96d919a-48ee-5a0a-5f09-22cacd4ca6ef>,2019-11-19 03:42:05+00:00,F,2001-12-23 00:00:00+00:00,Normal pregnancy
+62,<http://franz.com/synthea#fc712ee6-2dd5-de43-c6f5-3d258e1c150e>,2015-03-17 07:27:08+00:00,F,1942-09-17 00:00:00+00:00,Malignant tumor of colon
+63,<http://franz.com/synthea#ddd20844-fc61-0e5c-75ac-f3b2340635f9>,2014-08-06 23:24:44+00:00,M,1997-05-31 00:00:00+00:00,Viral sinusitis (disorder)
+64,<http://franz.com/synthea#89a1454e-edef-92ee-77ee-458b69b7768c>,2016-11-29 14:40:10+00:00,F,1991-09-23 00:00:00+00:00,Anemia (disorder)
+65,<http://franz.com/synthea#d3249e93-2c05-6048-465e-14b9a645930c>,2021-07-17 08:41:26+00:00,M,1939-09-16 00:00:00+00:00,Chronic congestive heart failure (disorder)
+66,<http://franz.com/synthea#50666531-a752-0b15-8120-003bccc95343>,2019-08-04 22:56:01+00:00,F,1955-11-06 00:00:00+00:00,Sinusitis (disorder)
+67,<http://franz.com/synthea#f4fbfc94-6417-8f69-17e4-5da3277ac3b2>,2015-10-11 11:59:13+00:00,F,1999-04-27 00:00:00+00:00,Acute viral pharyngitis (disorder)
+68,<http://franz.com/synthea#4d77c5b7-28ce-9ec5-728f-f9006b7d33b7>,2016-03-19 06:19:11+00:00,F,1968-09-10 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+69,<http://franz.com/synthea#b9eb49fa-df36-8e76-ee5c-8e466cefd81c>,2013-07-02 12:54:01+00:00,F,1979-10-16 00:00:00+00:00,Normal pregnancy
+70,<http://franz.com/synthea#b9337789-3cdb-c8ef-f5c7-4a15a81f49ea>,2020-02-25 09:17:51+00:00,F,1981-09-06 00:00:00+00:00,Anemia (disorder)
+71,<http://franz.com/synthea#d50ea1fb-0083-28bf-0fee-5141c026c8f2>,2021-05-23 14:58:29+00:00,F,1990-04-03 00:00:00+00:00,Viral sinusitis (disorder)
+72,<http://franz.com/synthea#a784d818-b1a0-565c-309b-e94b424f7929>,2020-06-29 01:03:39+00:00,F,1959-04-24 00:00:00+00:00,Malignant tumor of colon
+73,<http://franz.com/synthea#6b828b8c-8a03-0440-64d8-4ad05a276c44>,2013-04-12 01:17:47+00:00,F,1980-02-27 00:00:00+00:00,Tubal pregnancy
+74,<http://franz.com/synthea#1b84855b-4ebf-ae4d-fe73-5085dbd2dccb>,2017-04-03 08:47:49+00:00,F,1981-10-24 00:00:00+00:00,Hypertension
+75,<http://franz.com/synthea#3ee6c5a3-24f0-0400-eb51-2f8dc3234002>,2018-04-01 16:50:59+00:00,F,1988-12-26 00:00:00+00:00,Tubal pregnancy
+76,<http://franz.com/synthea#812bfb8f-4e65-3ad7-5e86-2d955c0a327d>,1997-09-04 11:09:28+00:00,M,1954-02-18 00:00:00+00:00,Anemia (disorder)
+77,<http://franz.com/synthea#a9f614af-ff99-c368-a114-cdd04268ae6f>,2022-04-03 15:24:16+00:00,M,1962-06-24 00:00:00+00:00,Non-small cell carcinoma of lung  TNM stage 1 (disorder)
+78,<http://franz.com/synthea#462da9aa-4dc7-8e50-115b-41d51f3d13ee>,2016-03-07 00:24:00+00:00,M,1949-11-08 00:00:00+00:00,Viral sinusitis (disorder)
+79,<http://franz.com/synthea#86414d5b-e515-07d9-e66b-fae5750a0ce6>,2022-02-06 06:50:55+00:00,F,1959-01-18 00:00:00+00:00,Reports of violence in the environment (finding)
+80,<http://franz.com/synthea#f6984fc0-b1b5-fbce-85dd-c592c9b068e6>,2020-05-31 23:25:07+00:00,F,1991-03-30 00:00:00+00:00,Normal pregnancy
+81,<http://franz.com/synthea#c1fef850-d802-7351-4c3f-66e294f161bd>,2020-07-17 21:11:08+00:00,F,1976-03-07 00:00:00+00:00,Asthma
+82,<http://franz.com/synthea#5edf3091-ccbe-a469-f39e-0591300a785d>,2021-06-16 02:04:12+00:00,F,1966-05-07 00:00:00+00:00,Overlapping malignant neoplasm of colon
+83,<http://franz.com/synthea#6ee1e22d-1247-3102-179d-30bf37296497>,2014-06-28 12:32:54+00:00,F,1979-05-24 00:00:00+00:00,Acute bronchitis (disorder)
+84,<http://franz.com/synthea#cd7df36c-587f-3837-8e30-e33839c7f317>,2021-10-29 13:08:30+00:00,F,1978-05-03 00:00:00+00:00,Tubal pregnancy
+85,<http://franz.com/synthea#6ed2d1c7-8a25-6ec2-6ff4-a9e729c33bb1>,2020-11-26 17:47:48+00:00,F,1958-11-23 00:00:00+00:00,Misuses drugs (finding)
+86,<http://franz.com/synthea#9f6bae09-f75d-d0a7-4563-7e5607031c0a>,2019-06-19 09:24:06+00:00,F,1985-04-06 00:00:00+00:00,Tubal pregnancy
+87,<http://franz.com/synthea#677ae3f8-fe61-f894-2917-95af84ecf833>,2018-11-06 00:07:46+00:00,F,1970-10-11 00:00:00+00:00,Anemia (disorder)
+88,<http://franz.com/synthea#f3fa2c06-5c8d-588d-e27d-0b2f69636d90>,2015-09-02 12:24:59+00:00,F,1996-10-22 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+89,<http://franz.com/synthea#db997dc0-579f-629d-0380-6fb5d7b0d6df>,2014-03-26 06:46:18+00:00,F,1956-02-25 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+90,<http://franz.com/synthea#7f63ba73-438a-14e3-b9a4-1ebbf0e66dd3>,2016-10-31 13:27:40+00:00,F,1973-07-07 00:00:00+00:00,Tubal pregnancy
+91,<http://franz.com/synthea#b27882ee-9e2d-89c3-e6ba-80b2d019957d>,2021-09-14 08:27:42+00:00,F,1981-10-26 00:00:00+00:00,COVID-19
+92,<http://franz.com/synthea#0209dd41-1531-71b9-9634-9ffdf6239e21>,2022-03-20 14:30:57+00:00,F,1944-08-06 00:00:00+00:00,Malignant tumor of colon
+93,<http://franz.com/synthea#d78f0626-c9b6-01a4-ad06-22fa51025f64>,2020-08-26 16:55:06+00:00,F,1949-03-04 00:00:00+00:00,Overlapping malignant neoplasm of colon
+94,<http://franz.com/synthea#cdad45a8-8a48-44fd-241e-3e2fc8cbea89>,1990-03-18 05:53:00+00:00,M,1958-01-02 00:00:00+00:00,Drug overdose
+95,<http://franz.com/synthea#33bf49d8-0c43-24dd-c6e7-b95ead6bd2fa>,2015-08-02 01:05:33+00:00,F,1953-03-05 00:00:00+00:00,Victim of intimate partner abuse (finding)
+96,<http://franz.com/synthea#4527a864-a41f-f164-0781-312af48291ec>,2019-03-08 05:22:00+00:00,F,1981-09-02 00:00:00+00:00,Tubal pregnancy
+97,<http://franz.com/synthea#dd115c11-6a4a-974e-0e74-fc0100beed5d>,2021-02-02 20:15:51+00:00,F,1983-07-19 00:00:00+00:00,Normal pregnancy
+98,<http://franz.com/synthea#2850bac0-546f-66e3-226c-eaccd3dd89da>,2020-07-30 01:54:27+00:00,M,1955-07-06 00:00:00+00:00,Hyperlipidemia
+99,<http://franz.com/synthea#acd6ad27-53fe-9ad0-b190-3a6210257c84>,2014-01-02 07:35:58+00:00,F,1992-02-18 00:00:00+00:00,Normal pregnancy
+100,<http://franz.com/synthea#b97c006a-9d8e-1148-4ae4-b2c7ff9fb4ce>,2016-12-10 03:06:53+00:00,F,1999-12-13 00:00:00+00:00,Anemia (disorder)
+101,<http://franz.com/synthea#439b11bb-975a-a412-b105-a93f33132d77>,2017-04-05 14:09:19+00:00,F,1977-12-27 00:00:00+00:00,Normal pregnancy
+102,<http://franz.com/synthea#e167022c-b1d6-644e-1cca-5490ca10b11a>,2016-07-07 02:06:20+00:00,F,1985-07-25 00:00:00+00:00,Tubal pregnancy
+103,<http://franz.com/synthea#77772119-9948-668c-4957-d7f2501fe77a>,2019-08-30 00:58:28+00:00,F,1941-07-15 00:00:00+00:00,Viral sinusitis (disorder)
+104,<http://franz.com/synthea#7ff5c595-81d1-235a-1f55-deeacf738984>,2017-07-14 16:53:29+00:00,F,1967-04-22 00:00:00+00:00,Tubal pregnancy
+105,<http://franz.com/synthea#1de15ebd-67a3-0b3c-585e-db7a8b50f446>,2016-07-26 19:09:16+00:00,F,1992-05-20 00:00:00+00:00,Viral sinusitis (disorder)
+106,<http://franz.com/synthea#0e7e309e-1d69-8d82-a363-7e28fb6e867d>,2018-06-15 07:44:28+00:00,F,1968-04-16 00:00:00+00:00,Tubal pregnancy
+107,<http://franz.com/synthea#9716ee12-33b9-3ea3-0845-26237949d8c2>,2016-06-18 00:49:53+00:00,F,1991-12-05 00:00:00+00:00,Normal pregnancy
+108,<http://franz.com/synthea#20307429-6398-6a72-1922-2e7e20950378>,2018-06-21 23:25:45+00:00,M,1970-09-06 00:00:00+00:00,Asthma
+109,<http://franz.com/synthea#e8f52d65-1b0c-d9e3-4bd0-c7702f7cfcbf>,2001-07-18 20:52:23+00:00,F,1968-02-28 00:00:00+00:00,Anemia (disorder)
+110,<http://franz.com/synthea#1d80ec29-0b06-0944-9c6d-b8e01ec388dc>,2018-03-27 02:27:34+00:00,F,1933-05-28 00:00:00+00:00,Drug overdose
+111,<http://franz.com/synthea#b4a790c4-292a-6b6e-626b-8e09a1d84862>,2018-07-22 22:03:29+00:00,M,1953-06-28 00:00:00+00:00,Osteoarthritis of knee
+112,<http://franz.com/synthea#1b1569cc-3080-c5ed-71d8-830f220489ad>,2012-12-24 05:25:22+00:00,F,1990-08-14 00:00:00+00:00,Tubal pregnancy
+113,<http://franz.com/synthea#2a36859d-53ba-dc35-5e83-a33f750a2816>,2015-09-10 08:41:33+00:00,F,1954-04-30 00:00:00+00:00,Malignant tumor of colon
+114,<http://franz.com/synthea#05fecead-8971-bfea-d00f-2d1c62976de6>,2019-10-21 16:38:42+00:00,F,1964-12-08 00:00:00+00:00,Victim of intimate partner abuse (finding)
+115,<http://franz.com/synthea#ee2249ac-c356-af2c-4628-983c4d52bb60>,2020-10-13 15:10:54+00:00,M,1989-06-04 00:00:00+00:00,Viral sinusitis (disorder)
+116,<http://franz.com/synthea#ae40575f-6670-1972-92f8-36b335ed359a>,2016-06-28 11:45:32+00:00,F,1983-05-16 00:00:00+00:00,Normal pregnancy
+117,<http://franz.com/synthea#c2378159-6900-d82f-717d-3c7baca8fb7e>,2014-11-20 19:50:13+00:00,F,1982-09-02 00:00:00+00:00,Normal pregnancy
+118,<http://franz.com/synthea#f778db65-69d5-8637-6dde-5e350aab96a3>,2015-11-27 03:31:40+00:00,M,1913-10-17 00:00:00+00:00,Hyperlipidemia
+119,<http://franz.com/synthea#c21daf00-5d5e-f866-fcd5-84e54897e795>,2019-01-12 08:52:01+00:00,F,1947-06-28 00:00:00+00:00,Malignant tumor of colon
+120,<http://franz.com/synthea#b4d6cacb-3b6d-568c-830e-8dfbd3231a69>,2021-03-12 23:39:53+00:00,F,1957-09-22 00:00:00+00:00,Acute bronchitis (disorder)
+121,<http://franz.com/synthea#ae342e15-2132-32f3-71e3-6f2fcef6d28e>,2017-03-01 16:09:01+00:00,F,1999-01-05 00:00:00+00:00,Anemia (disorder)
+122,<http://franz.com/synthea#ead196b0-ddb0-e68f-88fe-e2d39616c5f6>,2021-12-24 22:57:13+00:00,M,1985-07-18 00:00:00+00:00,Anemia (disorder)
+123,<http://franz.com/synthea#a2498d65-2121-0a34-395b-98876f8e0c01>,2022-03-09 23:01:51+00:00,M,1985-10-01 00:00:00+00:00,Anemia (disorder)
+124,<http://franz.com/synthea#8e6ff96a-4d3c-5d05-3d34-f72e91fe094f>,2016-08-21 17:11:26+00:00,F,1990-06-02 00:00:00+00:00,Normal pregnancy
+125,<http://franz.com/synthea#a98d14fa-fada-779a-7b4a-7c5a0907d1bb>,2021-04-21 00:39:34+00:00,M,1939-03-02 00:00:00+00:00,Hyperlipidemia
+126,<http://franz.com/synthea#9c9afa94-3e0c-6f0f-ad8b-60bd8ae6d969>,2014-11-10 17:05:52+00:00,F,1984-12-21 00:00:00+00:00,Injury of anterior cruciate ligament
+127,<http://franz.com/synthea#a81c2a45-a59d-7d4c-e7f9-9889c63c8100>,2020-05-07 15:25:22+00:00,F,1968-05-09 00:00:00+00:00,COVID-19
+128,<http://franz.com/synthea#4c8198f1-73c2-c660-06d8-92c85e8554fe>,2014-05-05 19:49:02+00:00,F,1975-12-01 00:00:00+00:00,Normal pregnancy
+129,<http://franz.com/synthea#fa964614-4fef-808f-fc66-df7dbf4c914c>,2021-03-18 05:49:58+00:00,M,1938-07-18 00:00:00+00:00,Chronic congestive heart failure (disorder)
+130,<http://franz.com/synthea#383eaa70-2afc-9958-3f5f-2cae0eccb5d8>,2016-07-12 01:48:43+00:00,F,1971-08-16 00:00:00+00:00,Tubal pregnancy
+131,<http://franz.com/synthea#4d8fbdfa-2b43-2074-ec5a-3c8342f05109>,2017-03-15 18:48:14+00:00,F,1976-08-29 00:00:00+00:00,Tubal pregnancy
+132,<http://franz.com/synthea#8fbb6611-da83-9c36-28c7-f9958bd553ec>,2022-03-09 11:19:15+00:00,F,1976-10-14 00:00:00+00:00,Tubal pregnancy
+133,<http://franz.com/synthea#d3e01735-9756-f43f-af1b-553997cf6ee4>,2021-07-24 01:47:59+00:00,F,1987-04-10 00:00:00+00:00,Normal pregnancy
+134,<http://franz.com/synthea#eac48308-5640-7225-08e3-7a85456a8898>,2018-10-24 00:30:22+00:00,F,1991-05-07 00:00:00+00:00,Opioid abuse (disorder)
+135,<http://franz.com/synthea#3e7c79bc-c4de-7edb-4a61-af608cadd37b>,2021-12-21 01:57:24+00:00,M,1939-06-25 00:00:00+00:00,Chronic congestive heart failure (disorder)
+136,<http://franz.com/synthea#9b5e136f-325f-2544-052a-4b1f7a1c7b20>,2018-02-17 16:21:32+00:00,F,1995-11-25 00:00:00+00:00,Normal pregnancy
+137,<http://franz.com/synthea#2b29ae2f-b12c-1f8b-a07d-818fa1184309>,2017-08-05 04:11:21+00:00,F,1970-10-31 00:00:00+00:00,Tubal pregnancy
+138,<http://franz.com/synthea#c33a2fe2-562c-5613-c462-1e7fd365b487>,2012-05-24 23:22:56+00:00,F,1976-02-11 00:00:00+00:00,Tubal pregnancy
+139,<http://franz.com/synthea#75c9b862-4f58-5d52-5531-4be65a009a56>,2021-02-09 12:04:05+00:00,M,1995-09-22 00:00:00+00:00,Acute bronchitis (disorder)
+140,<http://franz.com/synthea#28962d30-6a9f-853a-3fed-ab3b13ee84bb>,2017-10-05 16:21:44+00:00,F,1982-10-28 00:00:00+00:00,Normal pregnancy
+141,<http://franz.com/synthea#54c86432-3477-4725-5aed-8c69d13bda4a>,2014-11-09 09:49:23+00:00,F,1991-09-13 00:00:00+00:00,Tubal pregnancy
+142,<http://franz.com/synthea#f486b383-b098-ebf0-1b63-30452060dc7f>,2012-12-30 09:22:02+00:00,M,1996-07-18 00:00:00+00:00,Viral sinusitis (disorder)
+143,<http://franz.com/synthea#7f957237-b27d-8ce0-1465-25d628056895>,2021-10-23 13:46:30+00:00,M,1962-10-04 00:00:00+00:00,Hyperlipidemia
+144,<http://franz.com/synthea#38e7dd76-eb3f-cd8d-4d63-76b4f2bae230>,2020-03-10 09:57:34+00:00,F,1963-12-21 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+145,<http://franz.com/synthea#9fa2a1e0-b529-ac4a-393c-514407c8cd93>,2013-09-14 13:45:18+00:00,F,1992-04-30 00:00:00+00:00,Fetus with chromosomal abnormality
+146,<http://franz.com/synthea#00c4383b-484c-1c91-1930-24cdec6c2f8c>,2019-02-13 13:40:19+00:00,F,1957-11-05 00:00:00+00:00,Victim of intimate partner abuse (finding)
+147,<http://franz.com/synthea#de092742-f086-c2bd-9576-b2fd9a21be05>,2020-10-17 03:43:54+00:00,F,1963-03-10 00:00:00+00:00,Transport problems (finding)
+148,<http://franz.com/synthea#bf0bde95-aa0c-f671-51f1-12378c1bdfe1>,2021-01-28 18:03:14+00:00,F,1963-12-17 00:00:00+00:00,Hyperlipidemia
+149,<http://franz.com/synthea#e6bf7a74-da99-5629-b95b-a7823c10f99e>,1990-05-05 01:51:49+00:00,F,1949-12-24 00:00:00+00:00,Chronic pain
+150,<http://franz.com/synthea#52ce2383-84d5-993e-168f-4e8af79040c4>,2022-03-24 03:53:13+00:00,F,1998-10-14 00:00:00+00:00,Normal pregnancy
+151,<http://franz.com/synthea#b8e1f0a2-e29f-f0f4-3c42-aab373b219d4>,2020-02-11 02:09:35+00:00,F,1947-12-10 00:00:00+00:00,Malignant tumor of colon
+152,<http://franz.com/synthea#f8f84d69-9ad3-6c87-0d74-d2665f43a694>,2015-06-29 00:05:28+00:00,F,1988-12-15 00:00:00+00:00,Acute viral pharyngitis (disorder)
+153,<http://franz.com/synthea#c5e35ebc-7e29-9b2e-cd5d-b8696db04095>,2021-03-11 15:34:47+00:00,F,1969-08-17 00:00:00+00:00,Overlapping malignant neoplasm of colon
+154,<http://franz.com/synthea#6803b0db-4cc9-0864-0926-4ecffbd66f3f>,2019-06-23 22:42:33+00:00,F,1998-02-08 00:00:00+00:00,Normal pregnancy
+155,<http://franz.com/synthea#e166d5cd-0cfa-5b58-dbed-7806e4782282>,2018-04-05 13:00:58+00:00,F,1966-12-23 00:00:00+00:00,Chronic congestive heart failure (disorder)
+156,<http://franz.com/synthea#4ccc2694-f6c9-13d0-c80e-6cdc603c000f>,2015-04-12 18:03:51+00:00,M,1963-11-03 00:00:00+00:00,Malignant tumor of colon
+157,<http://franz.com/synthea#670a6b3c-b7d7-936a-cec4-3e1c470a7a47>,2018-12-13 18:48:50+00:00,F,1952-10-14 00:00:00+00:00,Hyperlipidemia
+158,<http://franz.com/synthea#ed5b9a61-fc9e-85c3-2a50-fc826f5ff7e6>,1993-08-14 12:28:11+00:00,F,1962-04-26 00:00:00+00:00,Normal pregnancy
+159,<http://franz.com/synthea#dc44ace8-712c-00ed-79fd-3488ed38852e>,2021-02-13 19:12:28+00:00,F,1984-05-04 00:00:00+00:00,Normal pregnancy
+160,<http://franz.com/synthea#f6eff89f-a0fe-94a1-4d29-46fca1bf3d1b>,1992-05-05 00:56:37+00:00,M,1939-08-28 00:00:00+00:00,Drug overdose
+161,<http://franz.com/synthea#a888690e-2e45-cc8c-e19e-d1e61bbdcbd8>,2018-06-15 09:56:17+00:00,F,1937-11-25 00:00:00+00:00,Concussion with loss of consciousness
+162,<http://franz.com/synthea#25343986-131c-021c-4778-edf47fe37811>,2014-08-15 15:58:55+00:00,M,1981-03-26 00:00:00+00:00,Anemia (disorder)
+163,<http://franz.com/synthea#db81f5cb-3280-e8a0-1cb7-8532858bdd2c>,2018-06-10 19:57:18+00:00,M,1988-06-05 00:00:00+00:00,Asthma
+164,<http://franz.com/synthea#a97f024b-0748-e26c-ae1f-29cc2259d11b>,2018-07-13 19:20:56+00:00,M,1967-07-06 00:00:00+00:00,Anemia (disorder)
+165,<http://franz.com/synthea#8778e739-b3bf-a6f7-2322-05ed3478cdc2>,2016-02-29 08:52:12+00:00,M,1953-04-26 00:00:00+00:00,Viral sinusitis (disorder)
+166,<http://franz.com/synthea#e31b2165-1874-4e5f-13b3-b52228acfba5>,1996-06-29 23:26:35+00:00,F,1970-08-30 00:00:00+00:00,Impacted molars
+167,<http://franz.com/synthea#72ef29cd-7c07-19b8-5db1-9f4e59a6ea98>,2015-11-06 18:47:24+00:00,F,1967-10-12 00:00:00+00:00,Anemia (disorder)
+168,<http://franz.com/synthea#6aaced16-368f-f9c0-aa50-2caab033c169>,2016-04-20 22:12:02+00:00,F,1976-08-22 00:00:00+00:00,Tubal pregnancy
+169,<http://franz.com/synthea#f2f745af-f27e-c463-50d6-ba3308dab67e>,2018-02-23 12:30:05+00:00,F,1977-04-29 00:00:00+00:00,Normal pregnancy
+170,<http://franz.com/synthea#bf1db617-78c9-c3dd-ca54-79479a9383cd>,2013-03-25 16:42:50+00:00,F,1993-01-10 00:00:00+00:00,Anemia (disorder)
+171,<http://franz.com/synthea#ea99b2c1-2c3b-7573-6760-cee5fb2ca469>,2013-05-20 09:32:08+00:00,F,1964-10-26 00:00:00+00:00,Hyperlipidemia
+172,<http://franz.com/synthea#cbdb78f4-8dd7-360a-35fa-3bb5620238d4>,2017-03-22 07:54:00+00:00,M,1948-02-15 00:00:00+00:00,Viral sinusitis (disorder)
+173,<http://franz.com/synthea#377b4ecc-2353-0033-6024-36128346d53f>,2016-10-16 06:40:02+00:00,F,1965-06-17 00:00:00+00:00,Viral sinusitis (disorder)
+174,<http://franz.com/synthea#294c28e1-5016-d41c-2bae-b08c42d38ccb>,2013-12-05 18:42:25+00:00,F,1961-12-22 00:00:00+00:00,Normal pregnancy
+175,<http://franz.com/synthea#289e529f-4049-6ead-11a6-9b5e002b53ca>,2013-11-23 10:40:06+00:00,F,1980-10-22 00:00:00+00:00,Acute viral pharyngitis (disorder)
+176,<http://franz.com/synthea#7ebdcc5c-248f-9c10-a8bb-9f6a6fd6e222>,2019-06-10 00:19:22+00:00,F,1998-03-15 00:00:00+00:00,Normal pregnancy
+177,<http://franz.com/synthea#2a354c37-2176-02a8-65c0-a30ae9d30da8>,2019-11-08 22:49:38+00:00,M,1941-10-18 00:00:00+00:00,Hyperlipidemia
+178,<http://franz.com/synthea#099c6f8f-baae-4f78-e323-955063c1d5d4>,2021-02-19 11:24:27+00:00,F,1990-12-14 00:00:00+00:00,Normal pregnancy
+179,<http://franz.com/synthea#4e1d8d47-b4f3-67a8-a5b9-675cdf489ec4>,2016-04-05 04:38:11+00:00,F,1998-09-13 00:00:00+00:00,Normal pregnancy
+180,<http://franz.com/synthea#34c5273a-a262-1de7-7df8-f720b34224a7>,2018-12-06 08:46:17+00:00,F,1967-08-27 00:00:00+00:00,Overlapping malignant neoplasm of colon
+181,<http://franz.com/synthea#dc3b9e43-b0a6-3e8d-2d83-88b9ed3f27a9>,2021-06-14 17:47:42+00:00,F,1961-05-13 00:00:00+00:00,Viral sinusitis (disorder)
+182,<http://franz.com/synthea#573f28c4-f152-0d26-ff17-4776451fdb0f>,2020-10-28 21:19:21+00:00,F,1974-02-06 00:00:00+00:00,Risk activity involvement (finding)
+183,<http://franz.com/synthea#ae240cb4-9ed0-3a88-c7e7-88c311dd7b07>,2019-01-07 05:42:24+00:00,F,1987-10-04 00:00:00+00:00,Normal pregnancy
+184,<http://franz.com/synthea#edb5643d-dbb5-9ccf-09d4-9b5d4b362335>,2015-09-04 14:15:13+00:00,M,1962-10-16 00:00:00+00:00,Viral sinusitis (disorder)
+185,<http://franz.com/synthea#08180485-af74-c2e7-b10a-2377fad312cc>,2015-02-25 20:02:29+00:00,F,1991-12-24 00:00:00+00:00,Normal pregnancy
+186,<http://franz.com/synthea#f81e03de-c499-8bf9-1cca-db5ffe914d90>,2021-01-19 06:33:27+00:00,M,1993-07-28 00:00:00+00:00,Drug overdose
+187,<http://franz.com/synthea#a543b6ff-673f-a7ac-5c91-50e89192f5b2>,2018-03-20 18:57:58+00:00,F,1989-02-08 00:00:00+00:00,Viral sinusitis (disorder)
+188,<http://franz.com/synthea#fe55c0d2-3b6f-ee37-74e6-eea39df66131>,2016-01-17 06:47:30+00:00,F,1992-09-04 00:00:00+00:00,Normal pregnancy
+189,<http://franz.com/synthea#f3bb088f-8221-cd7f-212c-18f3c22ebf9d>,2017-06-25 21:37:09+00:00,F,1973-07-01 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+190,<http://franz.com/synthea#2863c8d4-9b2d-6e3e-16bb-1725a9759041>,1990-06-02 12:43:08+00:00,F,1961-02-07 00:00:00+00:00,Chronic intractable migraine without aura
+191,<http://franz.com/synthea#700ed728-63a3-af8e-eb9d-ee42786d73c0>,2020-03-01 01:22:37+00:00,F,1987-09-16 00:00:00+00:00,Tubal pregnancy
+192,<http://franz.com/synthea#b26aac5d-8cc1-a053-c3ec-39f04e6b2f82>,2020-09-18 10:52:05+00:00,F,1994-11-18 00:00:00+00:00,Normal pregnancy
+193,<http://franz.com/synthea#2c1c201a-9225-e1d1-ed51-3aa575fe5175>,2015-03-22 15:55:13+00:00,F,1995-02-16 00:00:00+00:00,Tubal pregnancy
+194,<http://franz.com/synthea#a18bff48-4876-1413-6f8d-8188e666b8e2>,2016-12-06 00:59:34+00:00,F,1967-05-23 00:00:00+00:00,Tubal pregnancy
+195,<http://franz.com/synthea#2f0f2579-8497-0b48-1c27-035ed723886f>,2014-10-22 07:10:57+00:00,F,1940-04-20 00:00:00+00:00,Acute bronchitis (disorder)
+196,<http://franz.com/synthea#ca9f6c4b-d7f3-1089-e612-d587b43f6525>,2019-10-11 08:39:55+00:00,M,1999-12-08 00:00:00+00:00,Anemia (disorder)
+197,<http://franz.com/synthea#658035ff-2bd2-5240-3b90-4087e6ec14a3>,2015-04-04 08:27:03+00:00,M,1997-02-11 00:00:00+00:00,Childhood asthma
+198,<http://franz.com/synthea#2a4f6352-33d6-8880-fb18-49643191605a>,2018-10-17 17:30:59+00:00,F,1990-10-30 00:00:00+00:00,Normal pregnancy
+199,<http://franz.com/synthea#720ecb53-8bdc-0fe7-088c-617708a5de40>,2016-12-27 03:30:47+00:00,F,1954-11-20 00:00:00+00:00,Hyperlipidemia
+200,<http://franz.com/synthea#ce956d65-bb86-e046-253b-13e3fd731a30>,2013-12-22 10:21:09+00:00,F,1953-08-05 00:00:00+00:00,Viral sinusitis (disorder)
+201,<http://franz.com/synthea#b16f5cf1-e23b-84b8-f097-6aaae44dc699>,2017-05-21 02:34:47+00:00,M,1940-10-25 00:00:00+00:00,Overlapping malignant neoplasm of colon
+202,<http://franz.com/synthea#369b7d45-1711-42df-1895-6e6fc2139093>,2020-10-18 18:58:01+00:00,M,1965-08-12 00:00:00+00:00,Viral sinusitis (disorder)
+203,<http://franz.com/synthea#df13e00c-8759-04dd-1c84-d0c51136db0e>,2021-02-14 14:50:46+00:00,M,1989-12-03 00:00:00+00:00,Anemia (disorder)
+204,<http://franz.com/synthea#b3df05f0-5cae-a03a-19d1-ab693b9180e8>,2021-02-15 07:38:24+00:00,F,1996-07-25 00:00:00+00:00,COVID-19
+205,<http://franz.com/synthea#f8fbd9ea-3d32-9801-72f0-65a7995aafa2>,2020-10-08 10:16:47+00:00,F,1980-05-11 00:00:00+00:00,Otitis media
+206,<http://franz.com/synthea#f97b5966-a597-38cc-7028-c13fc933b03e>,2016-04-21 07:17:24+00:00,F,1964-11-26 00:00:00+00:00,Acute bronchitis (disorder)
+207,<http://franz.com/synthea#7116e40a-aa17-fff9-15bb-d0831311a50d>,2017-08-26 09:09:39+00:00,F,1938-10-19 00:00:00+00:00,Victim of intimate partner abuse (finding)
+208,<http://franz.com/synthea#5875fcb4-8ad5-ea7a-c164-fab921cf8c71>,2020-03-12 01:46:45+00:00,F,1948-06-16 00:00:00+00:00,Viral sinusitis (disorder)
+209,<http://franz.com/synthea#0565c98c-72f9-f110-3a0e-3bf9d0704850>,2020-08-12 16:31:44+00:00,M,1952-06-10 00:00:00+00:00,COVID-19
+210,<http://franz.com/synthea#fcce0e23-1e89-399a-3810-40dfab5d80a3>,1990-08-29 19:02:14+00:00,M,1920-11-18 00:00:00+00:00,Acute bacterial sinusitis (disorder)
+211,<http://franz.com/synthea#a01347a9-5597-5986-07cc-d748ea54a2dd>,2014-11-29 22:17:49+00:00,M,1918-09-20 00:00:00+00:00,Hyperlipidemia
+212,<http://franz.com/synthea#1902c995-4113-4336-78fe-fbc1f939c0ea>,2020-10-20 06:10:55+00:00,M,1974-08-19 00:00:00+00:00,COVID-19
+213,<http://franz.com/synthea#c044e0b5-834a-c7db-0f51-bf770f84225f>,2012-12-19 12:01:23+00:00,M,1961-08-25 00:00:00+00:00,Malignant tumor of colon
+214,<http://franz.com/synthea#4ddde201-cda8-9887-4d3e-7f1903101e60>,2015-10-26 16:05:40+00:00,F,1959-05-30 00:00:00+00:00,Overlapping malignant neoplasm of colon
+215,<http://franz.com/synthea#a34a1f44-848a-201e-f1cb-79543288708e>,2012-06-14 11:50:27+00:00,F,1988-05-19 00:00:00+00:00,Tubal pregnancy
+216,<http://franz.com/synthea#02d99117-e329-6e08-f8da-a9e50454257f>,2016-09-25 07:34:54+00:00,F,1950-03-21 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+217,<http://franz.com/synthea#f80b3883-70e7-97f4-926c-09c539c24194>,2021-07-26 00:52:34+00:00,F,1982-06-07 00:00:00+00:00,Viral sinusitis (disorder)
+218,<http://franz.com/synthea#e8742a23-5e53-a674-7252-6e5ed58dd115>,2021-06-24 01:07:07+00:00,F,1954-09-21 00:00:00+00:00,Malignant tumor of colon
+219,<http://franz.com/synthea#f8db4f3e-4808-abff-9abc-c8b156c0b5cf>,2021-04-02 08:36:36+00:00,F,1993-09-03 00:00:00+00:00,Normal pregnancy
+220,<http://franz.com/synthea#2eb71d88-61f1-511e-e0b5-18abed8b84ab>,2014-03-13 02:32:38+00:00,F,1987-06-28 00:00:00+00:00,Tubal pregnancy
+221,<http://franz.com/synthea#e76a098b-e728-acee-63ca-a6884bdf4541>,2017-09-11 08:54:56+00:00,M,1944-12-04 00:00:00+00:00,Viral sinusitis (disorder)
+222,<http://franz.com/synthea#715e56d7-8011-f32e-80cd-e412e34e6143>,2015-05-26 05:44:57+00:00,F,1965-11-20 00:00:00+00:00,Victim of intimate partner abuse (finding)
+223,<http://franz.com/synthea#01eab19e-41a5-2eca-d03a-b549a2d7e52c>,2021-04-09 04:51:41+00:00,F,1995-03-03 00:00:00+00:00,Asthma
+224,<http://franz.com/synthea#ba9099ee-f1c9-e5c3-691f-a9ae5f54408d>,2015-03-24 17:48:05+00:00,F,1987-05-18 00:00:00+00:00,Normal pregnancy
+225,<http://franz.com/synthea#00431fbf-8eb3-9c44-7733-3940fd8166b0>,2020-11-25 18:45:04+00:00,M,1947-11-13 00:00:00+00:00,Viral sinusitis (disorder)
+226,<http://franz.com/synthea#5b080122-90e3-c804-17b3-140833cfb51a>,2022-04-04 14:10:46+00:00,F,1953-07-13 00:00:00+00:00,Victim of intimate partner abuse (finding)
+227,<http://franz.com/synthea#179aeb52-b170-48a0-1ddc-c58d97df3519>,2021-06-18 15:03:38+00:00,F,1946-07-17 00:00:00+00:00,Asthma
+228,<http://franz.com/synthea#83166eaa-ac16-8116-8aae-cdc81203e50d>,2019-04-13 03:11:40+00:00,M,1999-02-04 00:00:00+00:00,Anemia (disorder)
+229,<http://franz.com/synthea#e043ea35-c0df-118d-37d3-0a773704bb49>,2017-03-09 21:35:53+00:00,F,1996-01-20 00:00:00+00:00,Viral sinusitis (disorder)
+230,<http://franz.com/synthea#0c60f0b5-83cb-e838-c6eb-2c95f701bbd9>,2021-02-26 21:19:20+00:00,M,1964-12-30 00:00:00+00:00,Malignant tumor of colon
+231,<http://franz.com/synthea#81ff5bc9-af12-20ac-6e6d-2f4fa0c3fd0c>,2014-05-05 19:47:33+00:00,F,1991-10-07 00:00:00+00:00,Normal pregnancy
+232,<http://franz.com/synthea#50122f8c-8492-d4d5-5d3b-ee75d0d93308>,1990-05-26 12:26:13+00:00,F,1928-04-14 00:00:00+00:00,Hyperlipidemia
+233,<http://franz.com/synthea#fff40cf8-2212-a978-077b-8010a8845378>,1990-07-02 17:59:14+00:00,F,1940-11-02 00:00:00+00:00,Hyperlipidemia
+234,<http://franz.com/synthea#3c453234-6e5c-a92e-a19c-91d3f9d24551>,2013-12-10 00:57:16+00:00,F,1990-02-26 00:00:00+00:00,Tubal pregnancy
+235,<http://franz.com/synthea#edc2335f-d3c6-eec8-73f2-1bf2cd73f097>,2018-02-10 06:46:56+00:00,F,1913-07-09 00:00:00+00:00,Closed fracture of hip
+236,<http://franz.com/synthea#adc969eb-2f82-5b6b-8df2-7841e9b0e4f1>,2020-06-27 20:24:58+00:00,F,1974-06-13 00:00:00+00:00,Tubal pregnancy
+237,<http://franz.com/synthea#80811260-4c10-53f5-1a72-4a7d14a3a240>,2021-08-31 07:24:41+00:00,F,1976-06-05 00:00:00+00:00,Tubal pregnancy
+238,<http://franz.com/synthea#6790be7b-9f14-a084-3990-c0d2d2ae6359>,2021-08-15 13:53:11+00:00,F,1976-02-16 00:00:00+00:00,Tubal pregnancy
+239,<http://franz.com/synthea#5fb40387-d1b5-278b-10b8-c43594336314>,2021-03-02 09:18:18+00:00,M,1964-03-17 00:00:00+00:00,COVID-19
+240,<http://franz.com/synthea#49b04a88-0f87-64b7-26ec-e3b64be00344>,2014-01-04 09:35:08+00:00,M,1995-08-13 00:00:00+00:00,Hypertension
+241,<http://franz.com/synthea#3aa1be9e-6eb8-3448-3b2e-2b66b806002e>,2013-10-26 08:06:30+00:00,F,1998-01-24 00:00:00+00:00,Chronic intractable migraine without aura
+242,<http://franz.com/synthea#cb15767e-7d04-3022-5210-235da75b482d>,2016-05-16 21:40:49+00:00,F,1982-11-01 00:00:00+00:00,Normal pregnancy
+243,<http://franz.com/synthea#ab8ce934-b787-8b1a-323d-7ac9219e5c50>,2015-11-24 15:23:21+00:00,F,1968-02-06 00:00:00+00:00,Normal pregnancy
+244,<http://franz.com/synthea#a174a72e-32f2-6d1a-bba5-9b8df61c090a>,2021-06-07 22:34:40+00:00,F,1963-06-20 00:00:00+00:00,Tubal pregnancy
+245,<http://franz.com/synthea#4b1c4bb2-62e0-5238-4187-591a079338f9>,2016-01-26 10:56:47+00:00,F,1971-08-04 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+246,<http://franz.com/synthea#237fda0a-2f1e-b073-ab9b-efb60a6e5835>,2019-07-26 21:16:51+00:00,F,1993-09-26 00:00:00+00:00,Tubal pregnancy
+247,<http://franz.com/synthea#e2789243-c97f-8a76-73af-47aa3beb5a92>,2012-05-23 16:52:05+00:00,F,1960-11-21 00:00:00+00:00,Malignant tumor of colon
+248,<http://franz.com/synthea#4a8340e2-7902-2cac-f6eb-caa31fbc493d>,2017-05-04 14:51:42+00:00,F,1975-12-28 00:00:00+00:00,Transport problems (finding)
+249,<http://franz.com/synthea#a8451985-04fd-77a7-fc6b-ddbda1e6432a>,2012-05-28 22:51:52+00:00,F,1972-03-06 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+250,<http://franz.com/synthea#42346de8-9a2e-cf4a-d852-e51686e628da>,2016-06-30 00:04:21+00:00,F,1987-04-15 00:00:00+00:00,Normal pregnancy
+251,<http://franz.com/synthea#ee17f070-1d74-4874-88bb-bb909c0d66d0>,2013-04-30 10:36:06+00:00,M,1994-01-05 00:00:00+00:00,Hypertension
+252,<http://franz.com/synthea#2aca89f3-d3b8-aa5c-3acc-de6a01b31bf0>,1995-07-07 16:12:00+00:00,M,1977-04-13 00:00:00+00:00,Hypertension
+253,<http://franz.com/synthea#fdf9ec52-29da-3107-0f38-39a5aee9357d>,2014-08-19 03:45:56+00:00,F,1989-01-29 00:00:00+00:00,Viral sinusitis (disorder)
+254,<http://franz.com/synthea#f69bec9f-0753-6234-05e4-1bfdd433646d>,2021-06-30 00:59:47+00:00,F,1999-01-26 00:00:00+00:00,Viral sinusitis (disorder)
+255,<http://franz.com/synthea#1afb76fb-1908-0469-79a5-3883efd6fe0b>,2020-01-30 05:11:13+00:00,F,1963-10-27 00:00:00+00:00,Reports of violence in the environment (finding)
+256,<http://franz.com/synthea#8910cb3a-9c32-67c9-0b42-9942ce2adc99>,2021-05-06 14:12:56+00:00,F,1953-06-04 00:00:00+00:00,Victim of intimate partner abuse (finding)
+257,<http://franz.com/synthea#f870d654-326b-7e25-01a5-b6bcba7ee817>,2017-01-13 15:13:29+00:00,F,1987-07-24 00:00:00+00:00,Normal pregnancy
+258,<http://franz.com/synthea#27698459-ef5d-cde7-1eb1-08eec9b6cb38>,2018-04-24 17:55:50+00:00,F,1994-12-06 00:00:00+00:00,Normal pregnancy
+259,<http://franz.com/synthea#0c3300b3-0f2f-38a3-ff75-5485e56a0a3f>,2021-05-17 17:00:21+00:00,F,1958-06-06 00:00:00+00:00,Viral sinusitis (disorder)
+260,<http://franz.com/synthea#9102c8b9-62ac-6bc0-5ac7-452b2c9c35fe>,2019-10-08 01:58:49+00:00,F,1975-08-23 00:00:00+00:00,Hypertension
+261,<http://franz.com/synthea#4d9746a0-8b29-bbb5-896f-bfe0006afe1b>,2016-03-29 06:59:37+00:00,F,1959-06-27 00:00:00+00:00,Escherichia coli urinary tract infection
+262,<http://franz.com/synthea#bfb2c9a3-6743-f5c7-4a21-21c9645dae13>,2017-07-24 22:59:04+00:00,M,1962-10-18 00:00:00+00:00,Chronic congestive heart failure (disorder)
+263,<http://franz.com/synthea#b11f89db-ea1b-9453-3a72-260b86d9083f>,2020-12-24 06:23:11+00:00,M,2020-11-23 00:00:00+00:00,Cerebral palsy (disorder)
+264,<http://franz.com/synthea#892bdf33-4e8b-d8e7-3fab-08abcdc3d695>,2017-07-27 06:13:23+00:00,F,1954-09-18 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+265,<http://franz.com/synthea#d635d6aa-3743-b0d1-0605-d9579a20a61c>,2022-02-18 16:42:09+00:00,M,1965-10-30 00:00:00+00:00,Injury of tendon of the rotator cuff of shoulder
+266,<http://franz.com/synthea#96385c00-bf3d-eb1d-35f2-e82b0d395a80>,2012-06-28 22:32:38+00:00,F,1983-01-19 00:00:00+00:00,Normal pregnancy
+267,<http://franz.com/synthea#67521370-a934-73e2-fea1-aa64d52e5616>,1990-05-26 16:39:24+00:00,F,1962-06-30 00:00:00+00:00,Normal pregnancy
+268,<http://franz.com/synthea#9a3646e0-5703-b9fa-36b4-dbc1c45c0141>,2015-01-14 09:40:03+00:00,F,1969-07-12 00:00:00+00:00,Victim of intimate partner abuse (finding)
+269,<http://franz.com/synthea#776e2b41-36b1-bdad-a02c-68bbb3274ddd>,2020-12-05 11:31:20+00:00,F,2004-12-31 00:00:00+00:00,Normal pregnancy
+270,<http://franz.com/synthea#3cde075d-4462-1020-57cf-a324713598b2>,2019-11-04 09:40:18+00:00,M,1951-01-24 00:00:00+00:00,Malignant tumor of colon
+271,<http://franz.com/synthea#27eb99d7-f824-6147-0d32-683b2c3bdc3d>,2013-05-13 08:49:41+00:00,M,1972-08-04 00:00:00+00:00,Acute viral pharyngitis (disorder)
+272,<http://franz.com/synthea#28c1eee1-038b-a931-0b40-ef9f3d16ef73>,2019-02-21 02:39:38+00:00,F,1984-01-14 00:00:00+00:00,Tubal pregnancy
+273,<http://franz.com/synthea#a1baa71f-c728-411b-00d2-d16190ab2aba>,2013-01-08 23:46:31+00:00,F,1956-07-20 00:00:00+00:00,Streptococcal sore throat (disorder)
+274,<http://franz.com/synthea#b1b75f34-ed42-e1fe-9855-1efdfdd85cec>,2019-11-02 02:57:44+00:00,M,1940-09-12 00:00:00+00:00,Hyperlipidemia
+275,<http://franz.com/synthea#4821225d-2e92-e7df-6529-d6621730cc72>,2018-01-02 16:57:21+00:00,M,1966-08-31 00:00:00+00:00,Chronic congestive heart failure (disorder)
+276,<http://franz.com/synthea#3a05ce30-281e-2ae7-3b73-34e08b69d0a8>,2015-11-06 11:39:54+00:00,F,1963-10-08 00:00:00+00:00,Hyperlipidemia
+277,<http://franz.com/synthea#fefeed6d-a2bf-e15c-1a2e-e3818cc8aef9>,2015-01-02 11:35:46+00:00,M,1985-02-15 00:00:00+00:00,Second degree burn
+278,<http://franz.com/synthea#c801a4f9-09a5-3ce5-a6ab-b27636397586>,2020-11-30 18:16:14+00:00,F,1964-10-18 00:00:00+00:00,Hyperlipidemia
+279,<http://franz.com/synthea#3759b55c-0613-4d3e-68e3-d27bb2998ef4>,2014-10-19 04:54:43+00:00,F,1956-03-31 00:00:00+00:00,Escherichia coli urinary tract infection
+280,<http://franz.com/synthea#a1fa31cb-fb5a-595b-b708-03354a4c63a7>,1990-02-26 03:50:12+00:00,F,1963-08-16 00:00:00+00:00,Chronic intractable migraine without aura
+281,<http://franz.com/synthea#8dbfd140-7b9c-1562-3f0b-322a6c94f4fd>,2012-11-15 22:45:48+00:00,F,1977-05-18 00:00:00+00:00,Normal pregnancy
+282,<http://franz.com/synthea#c0d5d26b-a7d7-8a74-027d-c3536bf6b0fb>,2018-09-21 01:49:46+00:00,F,2003-05-21 00:00:00+00:00,Risk activity involvement (finding)
+283,<http://franz.com/synthea#72eee63a-b63f-6911-b1e8-6417d851b3ad>,2019-07-25 09:17:36+00:00,F,1976-01-19 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+284,<http://franz.com/synthea#2e98ce12-b7d7-5394-fe4f-92d805e9a0fd>,2015-04-24 14:42:52+00:00,F,1964-01-14 00:00:00+00:00,Overlapping malignant neoplasm of colon
+285,<http://franz.com/synthea#68d64bda-94f3-ec9c-7eea-7dceb016c675>,2000-02-20 15:19:37+00:00,M,1965-10-16 00:00:00+00:00,Sinusitis (disorder)
+286,<http://franz.com/synthea#e6357353-5ac1-5d61-099b-d7297bf4b951>,2013-06-08 21:22:13+00:00,F,1972-05-22 00:00:00+00:00,Tubal pregnancy
+287,<http://franz.com/synthea#3962953a-441a-d575-e768-12b7696e17c7>,2020-09-05 11:20:57+00:00,F,1980-03-28 00:00:00+00:00,Normal pregnancy
+288,<http://franz.com/synthea#4f4a3c70-f831-b6cf-510d-a3f252223c6b>,2017-08-22 03:52:12+00:00,F,1993-05-02 00:00:00+00:00,Normal pregnancy
+289,<http://franz.com/synthea#feefeee5-a3e2-92f2-39cc-ea3e0495d033>,2018-01-11 15:35:16+00:00,M,1999-05-12 00:00:00+00:00,Viral sinusitis (disorder)
+290,<http://franz.com/synthea#0f24160c-1cc6-27b6-5498-fe9a17bde64f>,2015-08-02 23:41:00+00:00,F,1946-12-21 00:00:00+00:00,Transport problems (finding)
+291,<http://franz.com/synthea#72b2f977-40c4-c166-4a2c-9ce788ce42e3>,2016-06-11 00:15:47+00:00,F,1994-08-13 00:00:00+00:00,Tubal pregnancy
+292,<http://franz.com/synthea#f76e16aa-1f1e-06ca-df29-009188cfb147>,2013-11-01 03:34:02+00:00,F,1963-10-20 00:00:00+00:00,Anemia (disorder)
+293,<http://franz.com/synthea#27e646aa-7ff2-d642-e898-8fdf06d02144>,2014-01-02 19:04:45+00:00,F,1941-09-03 00:00:00+00:00,Viral sinusitis (disorder)
+294,<http://franz.com/synthea#4b16b26b-b0ae-fbb9-f19b-a6014c27b4ae>,2016-11-13 14:09:37+00:00,F,1949-12-19 00:00:00+00:00,Acute bacterial sinusitis (disorder)
+295,<http://franz.com/synthea#32a0eed9-2ee5-ed58-6232-6a3cc023e68d>,2021-10-03 02:38:41+00:00,F,1992-03-29 00:00:00+00:00,Tubal pregnancy
+296,<http://franz.com/synthea#2ecaaf3c-25f1-8ed9-0b22-8440a55982f8>,2018-01-18 15:27:54+00:00,F,1999-08-12 00:00:00+00:00,Normal pregnancy
+297,<http://franz.com/synthea#d1ee560b-ec43-419d-aa6d-2b8af36cd1ae>,2013-11-13 04:23:59+00:00,F,1992-08-27 00:00:00+00:00,Tubal pregnancy
+298,<http://franz.com/synthea#4e1984b0-3a1f-926c-41eb-921d4f1272bf>,2019-11-21 21:39:52+00:00,F,1999-02-18 00:00:00+00:00,Normal pregnancy
+299,<http://franz.com/synthea#ce1da207-f248-94dc-e040-b4283dade8aa>,2021-10-28 06:29:59+00:00,F,1949-03-18 00:00:00+00:00,Malignant tumor of colon
+300,<http://franz.com/synthea#942410a9-6c65-d24d-b663-0eb95c5c9d19>,2021-02-18 09:29:38+00:00,F,1998-01-08 00:00:00+00:00,Normal pregnancy
+301,<http://franz.com/synthea#9fe6a542-a197-c84c-2815-a5767a6209cf>,2015-07-20 22:27:35+00:00,F,1974-10-05 00:00:00+00:00,Tubal pregnancy
+302,<http://franz.com/synthea#935473d0-57fe-6b4e-5240-f718cf564a8f>,2017-06-29 18:53:39+00:00,F,1989-10-04 00:00:00+00:00,Normal pregnancy
+303,<http://franz.com/synthea#30b6bc66-8582-de32-86ba-6ad9e98f2677>,2018-08-04 18:31:14+00:00,F,1957-01-04 00:00:00+00:00,Overlapping malignant neoplasm of colon
+304,<http://franz.com/synthea#f1267e68-d934-1732-11c8-55bb6b98b656>,2017-09-29 18:58:10+00:00,F,1955-07-22 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+305,<http://franz.com/synthea#9aaea8ed-0687-e91e-1e09-08f14223d2b9>,2020-09-01 14:12:18+00:00,F,1971-08-11 00:00:00+00:00,Tubal pregnancy
+306,<http://franz.com/synthea#ba38ee67-0fe1-5dd5-ba34-2e52c6a5cd13>,2021-09-06 17:47:09+00:00,F,1963-01-03 00:00:00+00:00,COVID-19
+307,<http://franz.com/synthea#bd85d35c-ac2b-657b-1314-0e73070c417e>,2022-04-09 12:35:14+00:00,F,1955-06-16 00:00:00+00:00,Small cell carcinoma of lung (disorder)
+308,<http://franz.com/synthea#01ff2a77-bc1d-b702-4cb1-20efa38781cd>,2020-06-05 04:39:26+00:00,F,1993-09-01 00:00:00+00:00,Normal pregnancy
+309,<http://franz.com/synthea#4fb43bc5-2cdc-2f71-3b55-412f8ebf2d74>,2007-11-05 09:17:29+00:00,F,1993-06-20 00:00:00+00:00,Chronic pain
+310,<http://franz.com/synthea#03075481-2562-6fac-83be-5b9263a83550>,2018-03-03 00:08:17+00:00,F,1949-08-15 00:00:00+00:00,Victim of intimate partner abuse (finding)
+311,<http://franz.com/synthea#25f75dfc-d638-4497-7cb7-cd71b37a0d06>,2016-12-20 14:57:15+00:00,F,1991-01-05 00:00:00+00:00,Viral sinusitis (disorder)
+312,<http://franz.com/synthea#8a6d8b38-387f-3b69-7a64-487d8323e31f>,2014-11-10 11:29:51+00:00,F,1987-07-12 00:00:00+00:00,Normal pregnancy
+313,<http://franz.com/synthea#f157edac-b81c-6882-6c9e-3478b34dc57c>,2019-12-29 18:25:36+00:00,F,1973-01-12 00:00:00+00:00,Tubal pregnancy
+314,<http://franz.com/synthea#b31d8c53-2995-5da4-e54f-63cfedd1ebf0>,2020-01-22 18:07:15+00:00,F,1987-06-09 00:00:00+00:00,Normal pregnancy
+315,<http://franz.com/synthea#233b72fb-1ad8-93c6-bf3d-8b20694525d6>,2012-11-01 21:34:57+00:00,F,1988-09-14 00:00:00+00:00,Normal pregnancy
+316,<http://franz.com/synthea#efe7ce36-9bf8-ee25-7a4e-dbe9f7188415>,2020-10-15 13:22:23+00:00,F,1995-10-23 00:00:00+00:00,Normal pregnancy
+317,<http://franz.com/synthea#5562efbe-7044-0941-b756-9cbe21f8ddb7>,2017-01-31 04:15:20+00:00,F,1940-08-24 00:00:00+00:00,Victim of intimate partner abuse (finding)
+318,<http://franz.com/synthea#95bd5640-7e16-7ab0-2ca9-6896a0f84404>,2019-12-30 23:53:56+00:00,F,1989-12-04 00:00:00+00:00,Tubal pregnancy
+319,<http://franz.com/synthea#b8c7efbe-1d20-9f59-a0e3-0a862e0ea31d>,2014-04-18 11:58:06+00:00,F,1972-03-24 00:00:00+00:00,Normal pregnancy
+320,<http://franz.com/synthea#f6f575e8-f20d-5cc6-28b5-5e8b80047289>,2015-06-05 05:28:16+00:00,F,1999-12-25 00:00:00+00:00,Drug overdose
+321,<http://franz.com/synthea#fecf6b8a-73f9-c30d-3209-81e34e9e206c>,2022-02-11 21:24:20+00:00,F,1989-07-21 00:00:00+00:00,Normal pregnancy
+322,<http://franz.com/synthea#dd79ba00-0a0f-855e-5ff3-1b2178307451>,2015-11-15 10:25:49+00:00,F,1968-09-24 00:00:00+00:00,Malignant tumor of colon
+323,<http://franz.com/synthea#ddbc4839-b8c1-e102-2221-002a42823d8c>,2013-02-24 11:30:48+00:00,F,1987-01-24 00:00:00+00:00,Normal pregnancy
+324,<http://franz.com/synthea#1d81613e-fdc6-6366-3996-a825ab65d364>,2021-06-24 13:22:53+00:00,F,1939-11-09 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+325,<http://franz.com/synthea#6f313710-de1d-c1cb-2877-3da9d11e0d9e>,2020-03-30 15:45:07+00:00,M,1957-12-16 00:00:00+00:00,Fracture of clavicle
+326,<http://franz.com/synthea#dbb8ff1a-8821-745a-7852-2903ea875af6>,2014-06-25 20:10:43+00:00,F,1986-05-06 00:00:00+00:00,Normal pregnancy
+327,<http://franz.com/synthea#c63a8ade-f33a-fc9c-8ffc-5d3d5957fbb0>,2020-08-09 02:39:52+00:00,F,1985-05-12 00:00:00+00:00,Acute viral pharyngitis (disorder)
+328,<http://franz.com/synthea#b1387c94-c6b5-7cd9-1ad4-77a91a97a007>,2018-10-15 07:45:25+00:00,F,1988-07-09 00:00:00+00:00,Normal pregnancy
+329,<http://franz.com/synthea#106135df-2ca6-4ba0-801d-d9ef08284717>,2015-05-19 00:58:41+00:00,F,1985-10-13 00:00:00+00:00,Tubal pregnancy
+330,<http://franz.com/synthea#3e3e64c8-4c8c-85c6-2414-e33a5bced7c5>,2020-07-14 06:09:13+00:00,F,1999-08-29 00:00:00+00:00,Anemia (disorder)
+331,<http://franz.com/synthea#cc927734-7654-81f9-ce3e-7f3cd225c0e0>,2015-07-17 12:40:50+00:00,F,1971-04-22 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+332,<http://franz.com/synthea#ba0b0ed7-00a9-8877-e4c9-b5b941f90ef0>,2015-12-28 20:01:27+00:00,F,1981-06-27 00:00:00+00:00,Tubal pregnancy
+333,<http://franz.com/synthea#ed003bfc-6962-3d6a-3d2f-a606f220782f>,2013-04-05 18:08:36+00:00,M,1991-07-18 00:00:00+00:00,Viral sinusitis (disorder)
+334,<http://franz.com/synthea#5c19fa01-e9a2-0d21-67f1-ea4f429574c0>,2012-05-25 02:26:15+00:00,F,1968-10-12 00:00:00+00:00,Tubal pregnancy
+335,<http://franz.com/synthea#e6dab2da-c3a0-e350-0211-161506bdcf0f>,2013-08-09 00:05:43+00:00,M,1976-02-25 00:00:00+00:00,Anemia (disorder)
+336,<http://franz.com/synthea#ab59e312-06e1-a71e-2c69-e870408c1b8b>,2017-05-16 12:33:19+00:00,F,1990-05-21 00:00:00+00:00,Normal pregnancy
+337,<http://franz.com/synthea#a6e61f39-79f4-82e9-baf4-67fa8e292a3b>,2013-08-13 23:45:41+00:00,F,1969-07-28 00:00:00+00:00,Anemia (disorder)
+338,<http://franz.com/synthea#80ce98b5-2ee0-a2b5-ab9f-c8b73cab8332>,2017-05-26 21:31:26+00:00,F,1986-03-13 00:00:00+00:00,Anemia (disorder)
+339,<http://franz.com/synthea#61a9d888-3bad-0b70-0c36-24ea814862be>,2018-03-31 03:43:19+00:00,F,1999-07-06 00:00:00+00:00,Hypertension
+340,<http://franz.com/synthea#4958bb62-a162-0c2a-da2e-b0d8dd1cd3e9>,2020-03-13 12:36:55+00:00,M,1962-12-23 00:00:00+00:00,Chronic congestive heart failure (disorder)
+341,<http://franz.com/synthea#bfd08c8e-ed77-608f-35f6-bd9dff209dac>,2021-05-21 21:27:22+00:00,F,1969-09-07 00:00:00+00:00,Streptococcal sore throat (disorder)
+342,<http://franz.com/synthea#774a5614-1edc-8cc6-6da0-9ed364a1c120>,2013-02-10 20:47:10+00:00,F,1942-01-12 00:00:00+00:00,Acute bronchitis (disorder)
+343,<http://franz.com/synthea#4203d59e-7e38-4b2e-f66b-c956d097eb02>,2021-06-04 17:14:02+00:00,M,1953-08-23 00:00:00+00:00,Hyperlipidemia
+344,<http://franz.com/synthea#e442bdc9-2633-e44a-0ecc-7c985513fa56>,2020-06-06 13:55:44+00:00,M,1949-02-05 00:00:00+00:00,Malignant tumor of colon
+345,<http://franz.com/synthea#a77110c5-82a2-963f-1a6b-cab873616035>,2013-06-15 13:44:30+00:00,F,1982-01-22 00:00:00+00:00,Tubal pregnancy
+346,<http://franz.com/synthea#dd83f49c-66af-d128-b0b0-0fc3dfcb0832>,2018-03-12 09:01:28+00:00,M,1972-05-20 00:00:00+00:00,Anemia (disorder)
+347,<http://franz.com/synthea#edc219a3-61cf-ca17-3e5a-62e6af0f6422>,2021-06-23 00:34:40+00:00,F,1991-11-26 00:00:00+00:00,Normal pregnancy
+348,<http://franz.com/synthea#feb8779d-5830-72a4-3eeb-bca7b8d2ab5c>,2019-06-16 12:01:44+00:00,F,1996-06-18 00:00:00+00:00,Acute viral pharyngitis (disorder)
+349,<http://franz.com/synthea#534f1988-b5b8-84f1-597b-b7d39d28e579>,2015-10-21 18:49:09+00:00,F,1997-08-11 00:00:00+00:00,Hypertension
+350,<http://franz.com/synthea#4057e305-5675-3a4e-bc23-cbddc76f1471>,2017-02-15 04:39:24+00:00,M,1957-01-03 00:00:00+00:00,Hyperlipidemia
+351,<http://franz.com/synthea#70754bb8-b423-7586-8ec2-9d0821f91698>,2017-04-23 07:38:58+00:00,F,1971-12-10 00:00:00+00:00,Tubal pregnancy
+352,<http://franz.com/synthea#73990fe0-9ba4-e995-0b78-dc49560266d4>,2021-09-14 09:16:45+00:00,M,1958-01-13 00:00:00+00:00,Hyperlipidemia
+353,<http://franz.com/synthea#45f407a5-5e5f-4bc0-e123-a7631da6e65f>,2014-06-25 04:43:27+00:00,F,1948-02-03 00:00:00+00:00,Malignant tumor of colon
+354,<http://franz.com/synthea#fc3dcb7d-00d6-179d-03bb-b8be06a2d391>,2021-05-04 09:39:46+00:00,F,1998-03-26 00:00:00+00:00,Normal pregnancy
+355,<http://franz.com/synthea#c1f8b758-1f50-532a-368b-1454b48227e1>,2018-06-04 07:52:57+00:00,F,1980-10-12 00:00:00+00:00,Viral sinusitis (disorder)
+356,<http://franz.com/synthea#9681ec95-7101-f1f2-189e-60b314ff0be5>,2020-02-23 22:48:05+00:00,M,1957-08-12 00:00:00+00:00,Chronic congestive heart failure (disorder)
+357,<http://franz.com/synthea#44dbbf6c-8b30-2a3c-13ce-4dd9edcccbcc>,2021-02-14 10:16:33+00:00,F,1944-03-06 00:00:00+00:00,Victim of intimate partner abuse (finding)
+358,<http://franz.com/synthea#8efa9bae-dde1-2ee3-dedc-135c631aa393>,2018-06-26 20:57:06+00:00,F,1996-04-22 00:00:00+00:00,Anemia (disorder)
+359,<http://franz.com/synthea#a144a803-b456-ef1e-cd08-28adec6d89f8>,2017-03-25 17:56:42+00:00,F,1984-11-10 00:00:00+00:00,Normal pregnancy
+360,<http://franz.com/synthea#7da7cc15-0ed5-169d-644e-0f17a5ca6b53>,2016-07-02 18:50:23+00:00,F,1970-05-21 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+361,<http://franz.com/synthea#b580781d-607e-24bc-2528-9d540cc02b81>,2015-10-15 00:55:04+00:00,F,1983-06-07 00:00:00+00:00,Normal pregnancy
+362,<http://franz.com/synthea#cdc8215b-a751-846e-cdd6-c7d6bc6a4f1f>,2016-06-07 19:11:20+00:00,F,1972-09-21 00:00:00+00:00,Malignant tumor of colon
+363,<http://franz.com/synthea#db0ace66-aa75-a1ce-3414-6e4fe3e21d41>,2014-06-29 10:54:16+00:00,M,1983-04-08 00:00:00+00:00,Viral sinusitis (disorder)
+364,<http://franz.com/synthea#a32df390-0b2f-44ce-7f3b-4aeecf592ccb>,2014-09-12 21:53:32+00:00,F,1938-04-08 00:00:00+00:00,Malignant tumor of colon
+365,<http://franz.com/synthea#afcf209f-8fa0-bc29-9aad-f832b0f14f42>,2022-02-28 20:00:06+00:00,F,1958-10-19 00:00:00+00:00,Chronic congestive heart failure (disorder)
+366,<http://franz.com/synthea#7129fbcd-dc46-8c38-700d-c0ab704d8dc4>,2019-10-04 16:47:05+00:00,M,1969-10-02 00:00:00+00:00,Anemia (disorder)
+367,<http://franz.com/synthea#382d2632-9727-481e-0a08-b7995be07bf5>,2017-08-15 01:17:57+00:00,F,1993-07-12 00:00:00+00:00,Acute viral pharyngitis (disorder)
+368,<http://franz.com/synthea#0600ed04-1a94-630d-23e6-c41c818c46bc>,2020-10-04 17:27:49+00:00,F,1990-05-22 00:00:00+00:00,Tubal pregnancy
+369,<http://franz.com/synthea#8a44330a-7c17-bcd6-5b73-3356e77c4b65>,2016-11-23 22:10:30+00:00,F,1949-06-09 00:00:00+00:00,Malignant tumor of colon
+370,<http://franz.com/synthea#2d11b44a-78e4-2caf-e6b2-10a4d46ef6b9>,2022-03-16 05:29:40+00:00,F,1953-03-29 00:00:00+00:00,Reports of violence in the environment (finding)
+371,<http://franz.com/synthea#eae97cef-2d3c-4986-89b1-176a3e769b05>,2017-12-31 04:09:06+00:00,F,1977-04-23 00:00:00+00:00,Tubal pregnancy
+372,<http://franz.com/synthea#f9a4327c-de03-357b-393d-f9c4c5e79df8>,2014-01-05 08:29:24+00:00,M,1990-01-29 00:00:00+00:00,Viral sinusitis (disorder)
+373,<http://franz.com/synthea#f9585ff9-9029-7084-79fa-bd30eaf544c8>,2020-11-18 10:54:57+00:00,F,1963-12-10 00:00:00+00:00,Tubal pregnancy
+374,<http://franz.com/synthea#47ab98a4-ff97-cbae-926e-18ed713d3a0d>,2014-03-29 16:33:29+00:00,F,1958-08-12 00:00:00+00:00,Hyperlipidemia
+375,<http://franz.com/synthea#4cacc12a-cdc9-396c-6e0a-9ef8f0e6fc15>,2022-01-31 11:22:44+00:00,F,1950-01-13 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+376,<http://franz.com/synthea#a3220de8-bd53-b447-61ac-ed6d19c6fedf>,2022-01-16 04:11:25+00:00,F,1942-01-17 00:00:00+00:00,Reports of violence in the environment (finding)
+377,<http://franz.com/synthea#7e0944e4-cea4-0895-ed69-449dd61aa7f3>,2016-11-25 19:37:06+00:00,F,1999-01-05 00:00:00+00:00,Tubal pregnancy
+378,<http://franz.com/synthea#3cef70cf-fc75-d06f-d5c5-35c5e21527c1>,2017-05-28 08:45:42+00:00,F,1983-12-02 00:00:00+00:00,Normal pregnancy
+379,<http://franz.com/synthea#fbcec83b-1757-7754-8eb8-99d391464bb4>,2014-01-06 09:13:35+00:00,F,1988-12-31 00:00:00+00:00,Normal pregnancy
+380,<http://franz.com/synthea#d7300238-cd0d-aefe-1e0f-ac4d73ff4981>,2019-04-07 18:13:52+00:00,F,1983-11-20 00:00:00+00:00,Normal pregnancy
+381,<http://franz.com/synthea#4c3ae29a-22db-213b-a2bc-36c9b665197e>,2021-06-22 07:31:22+00:00,F,1976-01-10 00:00:00+00:00,Tubal pregnancy
+382,<http://franz.com/synthea#4b54873c-a2cf-215a-fde6-7765ddee2667>,2017-10-22 16:27:42+00:00,F,1986-08-17 00:00:00+00:00,Normal pregnancy
+383,<http://franz.com/synthea#2164a763-fe02-90d3-f6f9-69e42370ea88>,2015-11-23 07:48:32+00:00,M,1987-09-12 00:00:00+00:00,Anemia (disorder)
+384,<http://franz.com/synthea#f3f9d4a8-28cf-9656-872c-416b1fafc052>,2018-06-25 10:00:19+00:00,M,1957-02-27 00:00:00+00:00,Reports of violence in the environment (finding)
+385,<http://franz.com/synthea#7aa2af19-e153-611a-177b-974a2d16208f>,2020-08-20 15:06:13+00:00,F,1954-05-01 00:00:00+00:00,Malignant tumor of colon
+386,<http://franz.com/synthea#dbf34acc-a188-c9e2-7d2d-fd970ab8e704>,2018-08-23 20:43:46+00:00,F,1960-10-16 00:00:00+00:00,Viral sinusitis (disorder)
+387,<http://franz.com/synthea#01e0928d-d2f4-5281-cf7c-79bdd0804eb9>,2016-02-17 08:31:07+00:00,F,1993-12-27 00:00:00+00:00,Normal pregnancy
+388,<http://franz.com/synthea#46c46092-d00d-e1ee-7504-6549dd7a5908>,2014-06-01 00:28:02+00:00,F,1978-01-26 00:00:00+00:00,Viral sinusitis (disorder)
+389,<http://franz.com/synthea#8189dcc8-fd3a-c462-477c-aab9c840018c>,2020-01-11 10:20:23+00:00,M,1957-04-30 00:00:00+00:00,Reports of violence in the environment (finding)
+390,<http://franz.com/synthea#27ad9a65-e0a1-7419-6613-17e832a2e2e9>,2015-03-10 06:50:54+00:00,M,1990-12-02 00:00:00+00:00,Contact dermatitis
+391,<http://franz.com/synthea#42033c23-e61b-fcc4-823a-236f67ae817f>,2019-05-31 20:57:05+00:00,F,1987-04-30 00:00:00+00:00,Normal pregnancy
+392,<http://franz.com/synthea#1203f22d-37b2-5494-0ca0-88307bb5d6ed>,2020-02-17 16:12:56+00:00,F,1970-03-16 00:00:00+00:00,Normal pregnancy
+393,<http://franz.com/synthea#3290fc33-6c36-7f7a-3251-2886b4c46834>,2021-09-09 05:13:38+00:00,F,1953-02-13 00:00:00+00:00,Hyperlipidemia
+394,<http://franz.com/synthea#ba7d991e-d674-692a-47ff-d3a421116319>,2020-01-02 02:12:22+00:00,F,1996-04-03 00:00:00+00:00,Normal pregnancy
+395,<http://franz.com/synthea#f78f5600-b6b2-83d3-dc6d-caad64641418>,2021-02-11 00:58:55+00:00,M,1974-05-24 00:00:00+00:00,Unhealthy alcohol drinking behavior (finding)
+396,<http://franz.com/synthea#52e55543-57ae-f862-00dc-fcea496d1863>,2021-08-05 20:54:13+00:00,F,1996-06-20 00:00:00+00:00,Normal pregnancy
+397,<http://franz.com/synthea#e785b28c-a2ad-1e1e-0c39-614b0942921c>,2020-09-19 01:12:28+00:00,M,1996-10-22 00:00:00+00:00,Misuses drugs (finding)
+398,<http://franz.com/synthea#6c14cbfa-586c-9c74-8cb3-20a1f7d8946e>,2020-12-29 14:50:32+00:00,F,1995-09-22 00:00:00+00:00,Viral sinusitis (disorder)
+399,<http://franz.com/synthea#3e3fb329-4985-cfd1-1c30-a8aabe688dd8>,2020-07-02 21:44:57+00:00,F,1962-03-18 00:00:00+00:00,Reports of violence in the environment (finding)
+400,<http://franz.com/synthea#8908fecf-ae6c-9709-dfb7-8742d9915d0d>,2021-04-30 10:42:32+00:00,F,1957-04-11 00:00:00+00:00,Reports of violence in the environment (finding)
+401,<http://franz.com/synthea#32656a0b-79f6-407c-06d5-ca2faba43b30>,1977-08-07 22:57:27+00:00,M,1926-08-09 00:00:00+00:00,Acute bronchitis (disorder)
+402,<http://franz.com/synthea#b4ee7cc8-1c98-dca5-244e-be556f269410>,2022-02-04 13:15:22+00:00,M,1980-12-31 00:00:00+00:00,Chronic congestive heart failure (disorder)
+403,<http://franz.com/synthea#23e3668a-1b32-4505-8d58-b09f52ba2be6>,2014-09-25 05:42:53+00:00,F,1968-12-31 00:00:00+00:00,Tubal pregnancy
+404,<http://franz.com/synthea#db127955-090e-5a6a-6415-15cada99ff66>,2021-12-24 11:16:52+00:00,F,1996-02-16 00:00:00+00:00,Normal pregnancy
+405,<http://franz.com/synthea#38fe2cf9-c440-5c7e-c4ad-d59e2f40aa4a>,2019-09-27 14:49:36+00:00,F,1984-04-13 00:00:00+00:00,Localized  primary osteoarthritis of the hand
+406,<http://franz.com/synthea#3ee6bf0d-ca1f-56b8-34e6-4cfee37a1a67>,2015-06-17 05:51:08+00:00,F,1963-09-02 00:00:00+00:00,Viral sinusitis (disorder)
+407,<http://franz.com/synthea#661f31ba-58cd-c329-5669-eb8cb7da1614>,2020-12-10 12:04:00+00:00,F,1977-02-10 00:00:00+00:00,Tubal pregnancy
+408,<http://franz.com/synthea#23ca44e8-2608-e2f9-1ae4-3cb8665fada3>,2021-03-05 14:55:16+00:00,F,1991-01-25 00:00:00+00:00,Viral sinusitis (disorder)
+409,<http://franz.com/synthea#cac3777f-25e1-b995-b056-3c1fadd48d0a>,2014-04-18 08:42:11+00:00,F,1971-09-18 00:00:00+00:00,Tubal pregnancy
+410,<http://franz.com/synthea#fcc99938-f67f-7f1d-5882-59e8e6435859>,2020-12-25 02:51:05+00:00,F,1995-05-04 00:00:00+00:00,Normal pregnancy
+411,<http://franz.com/synthea#106704d0-fe32-9c42-1393-67efd2d99c28>,2015-10-22 17:05:33+00:00,F,1967-02-11 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+412,<http://franz.com/synthea#76119cd0-154c-3fe0-8a07-ccbabffe9612>,2017-05-27 07:44:13+00:00,F,1982-01-13 00:00:00+00:00,Acute bronchitis (disorder)
+413,<http://franz.com/synthea#31ef9ec6-9a7c-053b-f1e2-59ffe91b28d8>,2018-04-03 18:10:30+00:00,F,1997-09-15 00:00:00+00:00,Normal pregnancy
+414,<http://franz.com/synthea#e2801763-bda9-3394-8c24-e0b2b9f41e53>,2020-07-22 05:26:22+00:00,F,1975-03-08 00:00:00+00:00,Malignant neoplasm of breast (disorder)
+415,<http://franz.com/synthea#21be1066-b7a8-7b7f-e4b6-4681f421ab98>,2014-06-06 22:38:33+00:00,M,1969-05-15 00:00:00+00:00,Anemia (disorder)
+416,<http://franz.com/synthea#aeacf898-28e4-8fe2-1f12-2346378c3993>,2017-02-25 16:01:11+00:00,F,1967-03-28 00:00:00+00:00,Tubal pregnancy
+417,<http://franz.com/synthea#aca30e93-605d-724e-c385-b3c811a2e617>,2015-02-11 19:52:19+00:00,F,1973-12-04 00:00:00+00:00,Tubal pregnancy
+418,<http://franz.com/synthea#25acc261-464f-1bdf-b8c1-47d5bbb511f6>,2014-01-04 10:47:38+00:00,F,1983-10-26 00:00:00+00:00,Tubal pregnancy
+419,<http://franz.com/synthea#99dae035-7825-469b-b2c5-2b56ff0a72f7>,2006-12-17 10:22:58+00:00,M,1956-03-11 00:00:00+00:00,Anemia (disorder)
+420,<http://franz.com/synthea#494026b7-47fb-be2c-c74e-606e3ea133bb>,2021-01-31 08:38:38+00:00,F,2004-05-08 00:00:00+00:00,Tubal pregnancy
+421,<http://franz.com/synthea#4376388e-fdf1-417f-5efc-fb5bd88db702>,2018-08-03 13:23:20+00:00,F,1967-03-08 00:00:00+00:00,Overlapping malignant neoplasm of colon
+422,<http://franz.com/synthea#fe740309-7979-0a49-35ac-f14d3d47cf90>,2013-05-08 11:17:06+00:00,F,1993-08-15 00:00:00+00:00,Viral sinusitis (disorder)
+423,<http://franz.com/synthea#5e17765b-54ba-731e-0ef8-b488e1bc196f>,2015-02-22 10:37:33+00:00,F,1977-03-26 00:00:00+00:00,Anemia (disorder)
+424,<http://franz.com/synthea#b7b0f1f6-7ebc-b479-3eb4-1a61bc0502a8>,2018-07-13 13:51:35+00:00,F,1993-10-26 00:00:00+00:00,Acute viral pharyngitis (disorder)
+425,<http://franz.com/synthea#6e0ae87b-2166-5f1b-d4cf-f1cca1aaac6a>,2012-09-21 00:57:46+00:00,F,1982-02-25 00:00:00+00:00,Normal pregnancy
+426,<http://franz.com/synthea#18554411-01de-5e5c-bd46-3b803e444f78>,2016-09-21 09:27:09+00:00,M,1962-08-27 00:00:00+00:00,Anemia (disorder)
+427,<http://franz.com/synthea#76fb4a7e-156c-4891-9d28-48f21d122460>,2022-03-27 12:33:21+00:00,F,1971-01-09 00:00:00+00:00,Malignant tumor of colon
+428,<http://franz.com/synthea#f0031efc-d861-7315-34e2-945aefa2a7ed>,2018-01-07 08:34:21+00:00,F,1983-07-12 00:00:00+00:00,Acute bronchitis (disorder)
+429,<http://franz.com/synthea#e0880ce1-017f-3b45-0965-ac693a437bd1>,2022-04-08 03:25:00+00:00,M,1963-08-16 00:00:00+00:00,Viral sinusitis (disorder)
+430,<http://franz.com/synthea#f6ca3134-f13a-b436-8376-072164369001>,2021-04-12 21:12:15+00:00,F,1958-01-29 00:00:00+00:00,Viral sinusitis (disorder)
+431,<http://franz.com/synthea#c066bcba-ed83-2c61-4901-d2c213eac134>,2017-02-03 07:11:10+00:00,F,1913-07-02 00:00:00+00:00,Viral sinusitis (disorder)
+432,<http://franz.com/synthea#33dad620-60d7-14a6-9aed-355aa9545dbe>,2017-05-26 18:51:49+00:00,F,1954-03-03 00:00:00+00:00,Victim of intimate partner abuse (finding)
+433,<http://franz.com/synthea#874ebf09-4ef0-73ed-f726-b32b40dbda09>,2015-03-06 10:33:52+00:00,F,1985-07-14 00:00:00+00:00,Tubal pregnancy
+434,<http://franz.com/synthea#e1e90098-ce9b-5323-2420-62233e8205cc>,2017-05-05 17:54:07+00:00,F,1966-12-21 00:00:00+00:00,Tubal pregnancy
+435,<http://franz.com/synthea#275d8bd8-7be4-7341-0de6-6575cb29423b>,2022-01-21 06:38:57+00:00,F,1979-11-18 00:00:00+00:00,Pulmonary emphysema (disorder)

@@ -1,0 +1,400 @@
+,patient,category,age,gender,cond
+0,<http://franz.com/synthea#fc554fd6-0893-cb8b-1582-3597005841f6>,CONTROLLED DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+1,<http://franz.com/synthea#1fb4b8c9-3949-0fe6-c8d3-419d8357aa9f>,NON-DIABETIC,57,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+2,<http://franz.com/synthea#4cfca277-82e0-2ec0-c9f6-12f14d5f99cb>,CONTROLLED DIABETES,56,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+3,<http://franz.com/synthea#c365a82d-5f27-b015-4493-94dc84fb57c0>,PRE-DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+4,<http://franz.com/synthea#b45a3065-659a-5618-9b86-d7d7e6bcbf9d>,CONTROLLED DIABETES,39,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+5,<http://franz.com/synthea#74cd3c02-cb07-2f25-19ca-c740e53c5c41>,CONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+6,<http://franz.com/synthea#02afb716-a294-bfce-4598-b9917c803ae4>,CONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+7,<http://franz.com/synthea#50deaf0b-4141-37dd-b5cb-bbfcda8fb24c>,CONTROLLED DIABETES,33,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+8,<http://franz.com/synthea#2d861496-ca66-3a6f-8573-e36b77463115>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+9,<http://franz.com/synthea#b8c8dfe7-cefd-9269-ae24-09e75f61d109>,CONTROLLED DIABETES,23,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+10,<http://franz.com/synthea#971a47cc-1b72-dc1a-aebc-4f8f7c73f067>,CONTROLLED DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+11,<http://franz.com/synthea#bd0bb363-3cba-cee5-4a48-df7862dd13ab>,PRE-DIABETES,55,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+12,<http://franz.com/synthea#df57f776-5564-78d6-5264-4d44b9ee1267>,CONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+13,<http://franz.com/synthea#784f5f81-8a51-d176-4336-8eca7cdd0019>,CONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+14,<http://franz.com/synthea#013fb172-a75b-7ce6-ac1b-ecadcfb8e67f>,UNCONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+15,<http://franz.com/synthea#520e84fb-32c4-d6fe-11c9-fc8b836809ba>,CONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+16,<http://franz.com/synthea#91182835-69d2-3a3d-6185-63e4eecf6b7f>,CONTROLLED DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+17,<http://franz.com/synthea#772137fd-2720-26d4-2e29-504e77ed670c>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+18,<http://franz.com/synthea#7ffd251b-cd31-cba5-d0ed-679bceb4050e>,CONTROLLED DIABETES,26,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+19,<http://franz.com/synthea#aaad6bd3-600d-771f-b7f5-10559b77fdce>,CONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+20,<http://franz.com/synthea#ece2d7a0-5c65-a393-c9f3-b178e854938b>,UNCONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+21,<http://franz.com/synthea#0c9be3e8-b1cb-3b41-a62e-f40e1d8a68f4>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+22,<http://franz.com/synthea#2c0f5439-416a-2092-2e1a-afcd8e789c91>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+23,<http://franz.com/synthea#c6c8699f-fe20-5cd2-6b01-95026aca686d>,CONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+24,<http://franz.com/synthea#cdf751ff-6e5c-5d87-83b2-b2e5ee87e38a>,CONTROLLED DIABETES,20,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+25,<http://franz.com/synthea#bbea0ed7-e623-d64f-f7ee-da55e95a6e2e>,CONTROLLED DIABETES,20,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+26,<http://franz.com/synthea#ceaa2954-ec7c-6a80-04ff-a841f682a992>,CONTROLLED DIABETES,30,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+27,<http://franz.com/synthea#47305112-f24a-0c8b-ee9e-7d83795186a1>,CONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+28,<http://franz.com/synthea#4de479ef-bfa8-9649-9808-5c03486bc2c9>,CONTROLLED DIABETES,55,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+29,<http://franz.com/synthea#cbd9d3c3-2417-5ee1-c81e-3f78657db4fd>,PRE-DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+30,<http://franz.com/synthea#5bf52e4b-af59-9250-42cf-d346a807f268>,CONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+31,<http://franz.com/synthea#ac323f2e-4561-6d08-2ad0-ccbbe1bf7ba0>,CONTROLLED DIABETES,43,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+32,<http://franz.com/synthea#71ab2ae9-5fc8-f64f-d162-a5b7f9538337>,PRE-DIABETES,24,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+33,<http://franz.com/synthea#8c4778b4-31fb-cfd8-b57e-7a1fcb5c0f60>,CONTROLLED DIABETES,36,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+34,<http://franz.com/synthea#91dab0ed-b12e-5a88-c30a-e940b9d77100>,NON-DIABETIC,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+35,<http://franz.com/synthea#3fb36941-638b-cca9-edcb-26e994f1c2d0>,UNCONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+36,<http://franz.com/synthea#5330e7ad-1024-c060-9255-e0693ac734d3>,CONTROLLED DIABETES,54,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+37,<http://franz.com/synthea#2b0c8704-e901-d25b-a932-5eebeb3bbfe9>,PRE-DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+38,<http://franz.com/synthea#f90adcb5-f3e6-ef18-0f41-b11a765046e2>,CONTROLLED DIABETES,26,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+39,<http://franz.com/synthea#76bedf29-b9bd-9389-97fc-2494c437f5e5>,CONTROLLED DIABETES,30,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+40,<http://franz.com/synthea#274ecd89-2292-f326-bffa-5525811e041b>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+41,<http://franz.com/synthea#69d082fd-ce7a-98b7-067d-bbcc5c736fb1>,CONTROLLED DIABETES,49,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+42,<http://franz.com/synthea#4ad58efb-59e2-1c4b-a35b-66086782aa64>,UNCONTROLLED DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+43,<http://franz.com/synthea#86596703-2637-436c-a705-d8d526920953>,CONTROLLED DIABETES,39,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+44,<http://franz.com/synthea#9ed6bca0-70a8-1f42-5109-dfd9d02b6970>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+45,<http://franz.com/synthea#6cbc90de-8fe9-e14a-d105-83af28256f1b>,UNCONTROLLED DIABETES,49,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+46,<http://franz.com/synthea#886e19ca-043a-4f38-822e-c90a4fa071f6>,PRE-DIABETES,55,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+47,<http://franz.com/synthea#a5959a7e-be9d-d87f-f4a0-69cc6a438baf>,CONTROLLED DIABETES,66,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+48,<http://franz.com/synthea#70496252-1526-1b9e-5da7-c5e2cd269299>,CONTROLLED DIABETES,53,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+49,<http://franz.com/synthea#889f0de8-64c4-23ba-83c3-1fd5e87a7100>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+50,<http://franz.com/synthea#d4a74c8a-96ea-ba07-fc11-9dc2cb9528d5>,PRE-DIABETES,54,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+51,<http://franz.com/synthea#bcaf6696-ca05-cea7-0d47-bcd05bbb38aa>,CONTROLLED DIABETES,26,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+52,<http://franz.com/synthea#435322bd-0c14-0d0b-abc2-63ee64d178e0>,CONTROLLED DIABETES,30,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+53,<http://franz.com/synthea#ae19a72a-cd8d-5026-5415-bc9eb777161e>,CONTROLLED DIABETES,50,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+54,<http://franz.com/synthea#9009473a-4157-2be1-4ba6-2bf76eda4253>,CONTROLLED DIABETES,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+55,<http://franz.com/synthea#a1bcf078-363b-667c-8131-418780a19438>,PRE-DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+56,<http://franz.com/synthea#4eb317c3-1a29-19a3-51b0-046a2e1a64e8>,UNCONTROLLED DIABETES,45,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+57,<http://franz.com/synthea#e9c9d0b3-184e-444f-186d-995f99ccb443>,CONTROLLED DIABETES,46,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+58,<http://franz.com/synthea#b9337789-3cdb-c8ef-f5c7-4a15a81f49ea>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+59,<http://franz.com/synthea#d4ca1980-8ec7-7c27-bd98-e69e389d31b6>,CONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+60,<http://franz.com/synthea#b5ee4c4b-e254-4c9d-f732-06d12b4ccdb7>,UNCONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+61,<http://franz.com/synthea#812bfb8f-4e65-3ad7-5e86-2d955c0a327d>,NON-DIABETIC,67,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+62,<http://franz.com/synthea#7f0a96d9-6d0a-ab93-0b84-514cac86a55e>,NON-DIABETIC,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+63,<http://franz.com/synthea#77a6f45a-d87c-85a6-2b58-4d0586f368bc>,CONTROLLED DIABETES,20,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+64,<http://franz.com/synthea#29369dbe-a0c5-6597-06fb-748816e3d9e5>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+65,<http://franz.com/synthea#c1fef850-d802-7351-4c3f-66e294f161bd>,PRE-DIABETES,45,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+66,<http://franz.com/synthea#c749231e-8896-7332-8cfa-084db1f1ce31>,CONTROLLED DIABETES,54,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+67,<http://franz.com/synthea#7d469665-ddd0-2a7c-0378-4211b8ecfc7d>,NON-DIABETIC,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+68,<http://franz.com/synthea#ec8c1b9d-d8a7-0385-ba19-0fa0ea54d0b9>,UNCONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+69,<http://franz.com/synthea#53760c83-c23b-687e-cb1c-74efda82a351>,CONTROLLED DIABETES,44,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+70,<http://franz.com/synthea#951572d3-b8d6-b39b-0ede-ebafb3a00f77>,CONTROLLED DIABETES,40,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+71,<http://franz.com/synthea#14c914c5-ca96-54b6-b4bc-14dd937b9ee6>,CONTROLLED DIABETES,51,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+72,<http://franz.com/synthea#44f40c15-9b66-04fc-be2f-2100d86617b1>,UNCONTROLLED DIABETES,56,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+73,<http://franz.com/synthea#677ae3f8-fe61-f894-2917-95af84ecf833>,CONTROLLED DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+74,<http://franz.com/synthea#068f1d13-2756-4d94-4ed6-8d2e8ca49b9c>,CONTROLLED DIABETES,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+75,<http://franz.com/synthea#df83a0d9-b930-c2e2-e1c6-0464f6b7c11f>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+76,<http://franz.com/synthea#f9a727e1-79da-aecb-1445-b74c37e5b534>,CONTROLLED DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+77,<http://franz.com/synthea#42be2cbe-ef11-7e2a-96ea-38553b19d5df>,CONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+78,<http://franz.com/synthea#44567124-6545-97ee-8eae-b8a67ca7f51b>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+79,<http://franz.com/synthea#0fb28831-8b96-93fc-0782-d07fa679e0e9>,CONTROLLED DIABETES,54,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+80,<http://franz.com/synthea#69ec68b6-fba8-a04a-aaa7-e7c872e1af90>,UNCONTROLLED DIABETES,39,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+81,<http://franz.com/synthea#488c358f-4feb-241f-69ca-68531a0e8fbd>,CONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+82,<http://franz.com/synthea#9649db46-005c-3789-7eeb-e425078d85dd>,CONTROLLED DIABETES,50,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+83,<http://franz.com/synthea#35d817df-4db0-5f06-4351-c4209c569f58>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+84,<http://franz.com/synthea#10c2dbcd-9a34-fa38-dd8e-cca9a1b86cf1>,CONTROLLED DIABETES,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+85,<http://franz.com/synthea#f9742bdd-311f-0ab9-6343-53ff249dc674>,CONTROLLED DIABETES,48,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+86,<http://franz.com/synthea#4271e622-15e6-df2b-d6ea-bcbb8255607b>,CONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+87,<http://franz.com/synthea#34fe6b4a-6e81-30eb-7278-1d63f27830b0>,PRE-DIABETES,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+88,<http://franz.com/synthea#e15b04ef-e7b3-e40a-af65-18c68e5ff6d1>,PRE-DIABETES,51,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+89,<http://franz.com/synthea#ea085011-f58e-3f40-a183-39ba636e5a4e>,CONTROLLED DIABETES,23,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+90,<http://franz.com/synthea#5c73d4fd-2de2-a713-1006-cd5e1e5f6b43>,CONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+91,<http://franz.com/synthea#cc6789d0-ee19-1589-6d6c-32f016997355>,CONTROLLED DIABETES,57,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+92,<http://franz.com/synthea#926718dc-2af5-1a26-cfd3-3795c957e7b4>,CONTROLLED DIABETES,43,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+93,<http://franz.com/synthea#6e5edc57-3ea9-6293-4066-6115e40c02e8>,CONTROLLED DIABETES,56,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+94,<http://franz.com/synthea#19ac4360-6083-d5e8-3086-cddcbdae1600>,UNCONTROLLED DIABETES,29,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+95,<http://franz.com/synthea#0afea320-7068-709d-8418-756f96a79caa>,PRE-DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+96,<http://franz.com/synthea#20307429-6398-6a72-1922-2e7e20950378>,CONTROLLED DIABETES,50,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+97,<http://franz.com/synthea#199a0ba3-b44c-325f-6b0b-0904edb0a9b4>,PRE-DIABETES,29,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+98,<http://franz.com/synthea#3f9447f3-8f16-e90c-c86a-244da2fd4bc4>,CONTROLLED DIABETES,27,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+99,<http://franz.com/synthea#a40637cb-9324-1318-0c09-f57977c2d3a1>,CONTROLLED DIABETES,40,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+100,<http://franz.com/synthea#950fb37c-a316-acbb-7e49-9d32bcd28da0>,UNCONTROLLED DIABETES,44,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+101,<http://franz.com/synthea#6c3443f1-2a9d-669f-b9d4-210d655a6411>,NON-DIABETIC,32,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+102,<http://franz.com/synthea#61ae387e-c4ec-80ae-7177-d488f6c9762c>,UNCONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+103,<http://franz.com/synthea#209c4541-41cf-9b63-21de-41a84965906d>,PRE-DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+104,<http://franz.com/synthea#dfb6db6c-6167-ccf7-cb18-e4202d98600d>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+105,<http://franz.com/synthea#ead196b0-ddb0-e68f-88fe-e2d39616c5f6>,CONTROLLED DIABETES,36,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+106,<http://franz.com/synthea#a2498d65-2121-0a34-395b-98876f8e0c01>,PRE-DIABETES,36,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+107,<http://franz.com/synthea#629cdc49-e806-36b3-27af-e7c929a7c32a>,CONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+108,<http://franz.com/synthea#feda3e51-ba25-7f24-39d0-dead45f05b55>,UNCONTROLLED DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+109,<http://franz.com/synthea#40eb444b-ea13-db2c-b47b-49da3db4d549>,CONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+110,<http://franz.com/synthea#2d0c1e2e-257f-29a3-967b-eb9e746c6708>,NON-DIABETIC,57,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+111,<http://franz.com/synthea#44d4671b-f641-90bb-0cd0-ad2501d416de>,NON-DIABETIC,58,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+112,<http://franz.com/synthea#62d0314b-87f2-ccda-f876-80da2bce1b06>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+113,<http://franz.com/synthea#334b7e7c-bf12-a0ec-b6b0-92b252b87371>,NON-DIABETIC,38,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+114,<http://franz.com/synthea#1bdbb820-4676-3a63-d1b2-4c8ab7ce0f8a>,CONTROLLED DIABETES,36,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+115,<http://franz.com/synthea#dc0a8861-808c-becf-47bc-3600e20090ec>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+116,<http://franz.com/synthea#36e61a8e-38c0-79c3-901d-6db702321df7>,PRE-DIABETES,38,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+117,<http://franz.com/synthea#8e9c6f9c-7c28-24ad-cd8c-1e54e80cf8e0>,NON-DIABETIC,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+118,<http://franz.com/synthea#6bb92601-1303-87b8-1e16-decaa1c7f671>,UNCONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+119,<http://franz.com/synthea#7d8acb7d-c12a-b15a-9a6a-a872103eea9f>,CONTROLLED DIABETES,47,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+120,<http://franz.com/synthea#930fe294-f5aa-b357-c3e9-66b8ab72f5af>,PRE-DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+121,<http://franz.com/synthea#e3ec6c69-433d-3993-847e-21664536342b>,CONTROLLED DIABETES,56,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+122,<http://franz.com/synthea#308a1f00-3f27-28c1-465d-c66fdaf5e04f>,UNCONTROLLED DIABETES,36,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+123,<http://franz.com/synthea#b62c0034-fd57-0e44-577a-e8ac5778d929>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+124,<http://franz.com/synthea#30f7a910-9d4b-f8e5-bf5b-36f6b133dc8d>,PRE-DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+125,<http://franz.com/synthea#038a1722-1a12-78a5-af97-f17195c4f83d>,CONTROLLED DIABETES,36,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+126,<http://franz.com/synthea#fedc022d-e704-77e2-28a4-37fecbdf209f>,NON-DIABETIC,73,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+127,<http://franz.com/synthea#7d1eac69-5fe5-4854-1e08-856ea96854d6>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+128,<http://franz.com/synthea#00562da2-b8c5-32c7-7c46-99f9a65009c4>,CONTROLLED DIABETES,32,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+129,<http://franz.com/synthea#52ce2383-84d5-993e-168f-4e8af79040c4>,CONTROLLED DIABETES,23,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+130,<http://franz.com/synthea#e038fa8f-61b6-293b-7424-b5e508060314>,CONTROLLED DIABETES,41,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+131,<http://franz.com/synthea#f68ff313-7730-8b00-7ff4-13387d77f538>,PRE-DIABETES,56,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+132,<http://franz.com/synthea#a10035c5-11f2-8c4c-ab72-d7e9988f5451>,CONTROLLED DIABETES,54,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+133,<http://franz.com/synthea#17900a35-1817-219b-3b82-d31b4d59c909>,PRE-DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+134,<http://franz.com/synthea#aaba9f4c-1252-8cfb-224f-e47a8411abb1>,UNCONTROLLED DIABETES,55,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+135,<http://franz.com/synthea#6803b0db-4cc9-0864-0926-4ecffbd66f3f>,PRE-DIABETES,23,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+136,<http://franz.com/synthea#e6194a1a-131f-cedd-6ccd-9dcb43e1b9b1>,PRE-DIABETES,53,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+137,<http://franz.com/synthea#58a129c0-f11c-4ff4-28a8-e56e3a2b224d>,PRE-DIABETES,23,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+138,<http://franz.com/synthea#db72921b-1013-ac97-13dd-e3020dabfa07>,CONTROLLED DIABETES,50,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+139,<http://franz.com/synthea#76c65e56-c58d-63af-523e-6553ba4fd76e>,UNCONTROLLED DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+140,<http://franz.com/synthea#547ca106-f883-73ad-e2cb-cd91032a771b>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+141,<http://franz.com/synthea#251f34b3-71e0-5f96-13c5-a3d9645ccfe0>,CONTROLLED DIABETES,56,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+142,<http://franz.com/synthea#5a93625a-027c-c4bd-d831-ba65c97ac36a>,NON-DIABETIC,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+143,<http://franz.com/synthea#196a59a4-be05-d96c-0922-d36af490a4e7>,UNCONTROLLED DIABETES,32,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+144,<http://franz.com/synthea#03b3999b-8267-1244-ab54-4d78332b370b>,CONTROLLED DIABETES,39,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+145,<http://franz.com/synthea#ebec8aae-6e66-cb41-968c-0300c749540a>,CONTROLLED DIABETES,53,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+146,<http://franz.com/synthea#cbe737da-5e37-27d1-b3fd-7035dfb3e3ce>,CONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+147,<http://franz.com/synthea#c4df5429-9584-9b89-94aa-efed14886a1c>,CONTROLLED DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+148,<http://franz.com/synthea#acace4cf-5dfd-6810-632e-f0e6779f5552>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+149,<http://franz.com/synthea#3d822329-5c25-b858-1da2-456aa608e920>,PRE-DIABETES,49,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+150,<http://franz.com/synthea#bf1db617-78c9-c3dd-ca54-79479a9383cd>,UNCONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+151,<http://franz.com/synthea#fdebf725-a25f-7b9f-cc1d-baad1fbaca04>,CONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+152,<http://franz.com/synthea#d1ccbea9-fab3-b757-30dc-9e86b768db21>,CONTROLLED DIABETES,24,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+153,<http://franz.com/synthea#289e529f-4049-6ead-11a6-9b5e002b53ca>,PRE-DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+154,<http://franz.com/synthea#abd1f2c7-b297-0f9c-ad9c-4ffa47cfad3a>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+155,<http://franz.com/synthea#3d55de4d-c14a-a5be-3b99-9bb0164b8b67>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+156,<http://franz.com/synthea#ed8e8213-fca9-b57d-8cb8-672b63954957>,UNCONTROLLED DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+157,<http://franz.com/synthea#bf8ab2f0-7db5-d40e-0dd3-50bd3a8b56be>,PRE-DIABETES,54,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+158,<http://franz.com/synthea#8dfea862-039b-a796-221f-3f9e93759cf7>,PRE-DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+159,<http://franz.com/synthea#c7f6e660-8ced-d81b-6133-f5fc4d7747c9>,UNCONTROLLED DIABETES,54,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+160,<http://franz.com/synthea#ce61e620-217f-1b63-49d1-dd02bedfb1b1>,CONTROLLED DIABETES,28,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+161,<http://franz.com/synthea#9f460b8d-be9a-1019-ce67-b3d99bf752ab>,NON-DIABETIC,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+162,<http://franz.com/synthea#63842b80-7d74-3fb4-b314-5a07f512058b>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+163,<http://franz.com/synthea#6cffdc22-9bc4-b153-d2d9-183780fa9829>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+164,<http://franz.com/synthea#57925207-baf0-4258-3759-695bd8ed85a7>,NON-DIABETIC,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+165,<http://franz.com/synthea#1a9608a9-9e29-8292-bbc0-ce893da5735d>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+166,<http://franz.com/synthea#7100e6e5-3a4b-a825-077c-02991101b3a6>,PRE-DIABETES,46,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+167,<http://franz.com/synthea#59b1cd14-43d2-155d-bf53-79801d4c5407>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+168,<http://franz.com/synthea#700ed728-63a3-af8e-eb9d-ee42786d73c0>,UNCONTROLLED DIABETES,33,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+169,<http://franz.com/synthea#309f45cb-fc58-893e-6cc0-b2d43d2f1e00>,CONTROLLED DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+170,<http://franz.com/synthea#a40dc482-037c-107d-a6bf-abead67b5908>,PRE-DIABETES,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+171,<http://franz.com/synthea#be5ee47b-d100-47de-be63-b249e363be21>,CONTROLLED DIABETES,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+172,<http://franz.com/synthea#563cef0e-5c4e-f6d4-61bb-c248ab6b283a>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+173,<http://franz.com/synthea#ca9f6c4b-d7f3-1089-e612-d587b43f6525>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+174,<http://franz.com/synthea#137cb35f-0ca7-4f37-4329-0ab6ec8794f6>,PRE-DIABETES,32,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+175,<http://franz.com/synthea#0e3c1421-6d25-8c31-93fc-8843edd15ec1>,CONTROLLED DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+176,<http://franz.com/synthea#cdf8781b-180e-f674-5801-970bb7982942>,CONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+177,<http://franz.com/synthea#a405d382-bcf2-bb76-1122-b448dbe718d2>,UNCONTROLLED DIABETES,46,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+178,<http://franz.com/synthea#b6fa1322-70ab-003b-feea-1ad8182b1fad>,CONTROLLED DIABETES,23,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+179,<http://franz.com/synthea#df13e00c-8759-04dd-1c84-d0c51136db0e>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+180,<http://franz.com/synthea#7566a4f6-d9ec-f93b-6475-828b2f065252>,CONTROLLED DIABETES,26,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+181,<http://franz.com/synthea#14d65d93-af0f-5042-d6a3-8dc6f6279f71>,CONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+182,<http://franz.com/synthea#43ade5ae-a48d-8d22-0002-08a56c6e384d>,UNCONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+183,<http://franz.com/synthea#eb56091a-ee7f-2f0a-0c7e-fc0e558ebb2d>,UNCONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+184,<http://franz.com/synthea#f49fa5d0-8b06-58d5-12c6-9d4e19fa5067>,CONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+185,<http://franz.com/synthea#4eaa56e5-6739-58f6-aa5f-26637ecffaf4>,CONTROLLED DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+186,<http://franz.com/synthea#ef0bac52-078b-7af3-6c47-6d5844a1d5ed>,CONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+187,<http://franz.com/synthea#d8691a44-8f6c-28df-2ca5-c17a9bc2a690>,CONTROLLED DIABETES,61,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+188,<http://franz.com/synthea#1902c995-4113-4336-78fe-fbc1f939c0ea>,CONTROLLED DIABETES,47,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+189,<http://franz.com/synthea#11773c76-e4ca-703a-24dd-631499b69240>,PRE-DIABETES,51,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+190,<http://franz.com/synthea#d4a72c2c-137c-3aa5-46b6-a58ac7ddc3f6>,CONTROLLED DIABETES,43,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+191,<http://franz.com/synthea#3e231fc7-3302-5933-7aeb-70cf860c1e31>,CONTROLLED DIABETES,21,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+192,<http://franz.com/synthea#48ea6446-16ba-e6a9-870b-429847881faa>,PRE-DIABETES,53,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+193,<http://franz.com/synthea#adfaa750-30fc-0011-5fb5-52ac3e9ac004>,PRE-DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+194,<http://franz.com/synthea#85a5e14a-cdf7-2573-5c82-7e8c639c99f2>,UNCONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+195,<http://franz.com/synthea#f8366459-d4fc-cb8f-da3f-5e8568fce548>,CONTROLLED DIABETES,60,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+196,<http://franz.com/synthea#8ae07ef7-3a15-d115-9819-af76718e7d54>,CONTROLLED DIABETES,43,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+197,<http://franz.com/synthea#18db1df5-18bf-0e65-1c78-aef9c59fb8b0>,PRE-DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+198,<http://franz.com/synthea#13619ea6-93cc-7a00-9f36-a22dfbc57dfd>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+199,<http://franz.com/synthea#9b799e6b-4cbc-cb7d-630a-60185a004753>,PRE-DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+200,<http://franz.com/synthea#d156b629-b250-d49f-04b1-534a46c08b58>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+201,<http://franz.com/synthea#83166eaa-ac16-8116-8aae-cdc81203e50d>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+202,<http://franz.com/synthea#1df5236d-adc8-71c3-5278-f4b4b202edd3>,CONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+203,<http://franz.com/synthea#dceaebf8-0960-461c-739c-8d59fd7da346>,PRE-DIABETES,38,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+204,<http://franz.com/synthea#adfc8941-4c0b-86e1-9fed-c9fa6a0c528c>,CONTROLLED DIABETES,36,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+205,<http://franz.com/synthea#d51a8c17-003e-38db-d56e-0aeca2fa1163>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+206,<http://franz.com/synthea#b5d9355e-1243-f10a-6206-324a323f7510>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+207,<http://franz.com/synthea#87857a86-b77f-b6e3-7ef0-c7b13c0834bc>,UNCONTROLLED DIABETES,46,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+208,<http://franz.com/synthea#02e3b399-dca9-58a8-829c-1ea85753dfaa>,NON-DIABETIC,36,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+209,<http://franz.com/synthea#adc969eb-2f82-5b6b-8df2-7841e9b0e4f1>,NON-DIABETIC,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+210,<http://franz.com/synthea#5fb40387-d1b5-278b-10b8-c43594336314>,CONTROLLED DIABETES,57,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+211,<http://franz.com/synthea#f1c980b9-10fa-64f7-440b-a44cecba054e>,CONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+212,<http://franz.com/synthea#59622469-697c-3168-5062-73543056636f>,CONTROLLED DIABETES,30,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+213,<http://franz.com/synthea#84865ab1-db58-f6b7-16af-351706ad440c>,CONTROLLED DIABETES,66,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+214,<http://franz.com/synthea#4625051b-139e-ee8a-9bdf-f098f63a5af3>,CONTROLLED DIABETES,39,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+215,<http://franz.com/synthea#f3c010f4-ae21-dd2c-0fb6-18eac990946a>,CONTROLLED DIABETES,49,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+216,<http://franz.com/synthea#2f4d183b-bca2-6764-9862-3c68d6776190>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+217,<http://franz.com/synthea#8bb413d0-a0ae-17ab-4f98-f50c4cf806cd>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+218,<http://franz.com/synthea#62f98ec5-3422-f0b7-b5cc-912cda180b7e>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+219,<http://franz.com/synthea#e47a24c9-8477-9556-6eee-e37a78c35150>,CONTROLLED DIABETES,39,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+220,<http://franz.com/synthea#c34f687f-1a31-ab16-e048-fd614950da3c>,PRE-DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+221,<http://franz.com/synthea#238d8011-098a-1cd5-e2c0-d2fcd6166968>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+222,<http://franz.com/synthea#3c51dec1-6717-f7b2-a9fc-a34166454f33>,PRE-DIABETES,55,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+223,<http://franz.com/synthea#dd92e4e4-4462-e1bd-bea2-523c5321c4a4>,NON-DIABETIC,49,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+224,<http://franz.com/synthea#11e712ef-165b-12bf-6a54-f188b5a34afe>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+225,<http://franz.com/synthea#0c149672-3634-cff5-1e64-a983d2276789>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+226,<http://franz.com/synthea#5dbe6ec2-dd87-40f8-4ce6-762765dbc937>,PRE-DIABETES,53,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+227,<http://franz.com/synthea#d2da79d2-e248-ffb7-89fe-8b645e9e2791>,UNCONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+228,<http://franz.com/synthea#fb9e659e-cd75-3817-cba4-6b57801d9972>,CONTROLLED DIABETES,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+229,<http://franz.com/synthea#8890a117-091c-65ab-594d-e3ff41d28b9c>,CONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+230,<http://franz.com/synthea#4ebaaa04-bdaa-c355-ce11-c7cd8be80dea>,CONTROLLED DIABETES,38,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+231,<http://franz.com/synthea#fbbfeae9-e834-3363-e8a6-efa262df7609>,CONTROLLED DIABETES,38,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+232,<http://franz.com/synthea#9102c8b9-62ac-6bc0-5ac7-452b2c9c35fe>,CONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+233,<http://franz.com/synthea#36359ea9-73c3-4643-aa4e-5d40c5984d35>,CONTROLLED DIABETES,43,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+234,<http://franz.com/synthea#f7d9e490-eb48-c7b2-e142-9cf30c00df3b>,UNCONTROLLED DIABETES,32,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+235,<http://franz.com/synthea#e68b198c-87e1-2b3f-df1d-38911a8df764>,CONTROLLED DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+236,<http://franz.com/synthea#cde79ea0-aad3-d5c6-0d45-3ad1af971633>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+237,<http://franz.com/synthea#ce3158a8-ca0b-278b-6c32-a6bfaeba515b>,NON-DIABETIC,64,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+238,<http://franz.com/synthea#0550cab1-5ba7-bf74-6b45-c2e166c28f4c>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+239,<http://franz.com/synthea#2522cd64-d73e-d221-e951-01182a9db0bc>,PRE-DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+240,<http://franz.com/synthea#cb462846-670f-8c6e-6918-5b5081e4f8da>,CONTROLLED DIABETES,39,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+241,<http://franz.com/synthea#db701fe4-5a6e-fe85-8115-203abf3ebb8c>,CONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+242,<http://franz.com/synthea#b30bb8c9-0e3d-610b-37ba-b5b71c499886>,UNCONTROLLED DIABETES,35,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+243,<http://franz.com/synthea#e3f6d264-3ad1-bc02-11f3-83811fbe28a0>,PRE-DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+244,<http://franz.com/synthea#7a2d7bc7-ded0-3ac5-c450-86d434b52e24>,CONTROLLED DIABETES,48,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+245,<http://franz.com/synthea#63097920-4482-b2dc-fb83-30e33758bc50>,CONTROLLED DIABETES,32,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+246,<http://franz.com/synthea#5421bab3-b365-149b-2374-4ac53289b29d>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+247,<http://franz.com/synthea#6b232f4c-cee6-4b93-8d0d-ba23833d53a8>,CONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+248,<http://franz.com/synthea#c34c9337-929d-78d2-0109-eb11e0027361>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+249,<http://franz.com/synthea#ff25eb97-14f5-dbc5-be82-e4b781f713a7>,CONTROLLED DIABETES,72,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+250,<http://franz.com/synthea#0ec17fa5-169c-a19b-0585-7dd3040c941e>,PRE-DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+251,<http://franz.com/synthea#6368cb6c-e0b9-1edc-b7ac-3eea34ed21a4>,CONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+252,<http://franz.com/synthea#b0be0be9-027f-45bc-3547-77c07cc72850>,CONTROLLED DIABETES,54,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+253,<http://franz.com/synthea#eea2cafb-7717-fb17-72ea-fa30b40a7455>,PRE-DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+254,<http://franz.com/synthea#6c9bd87c-c6da-8976-c307-7305dbdec504>,CONTROLLED DIABETES,56,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+255,<http://franz.com/synthea#55df3f96-5214-8b94-20db-9b35fa631c7f>,CONTROLLED DIABETES,50,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+256,<http://franz.com/synthea#fba4835a-7669-1128-d0d9-64940667986a>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+257,<http://franz.com/synthea#98f44dea-84a5-d26b-6a08-ccc812fc64bd>,CONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+258,<http://franz.com/synthea#583abeeb-6e66-2f9e-7927-cee1fff7df8c>,CONTROLLED DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+259,<http://franz.com/synthea#2f8cee7e-31b1-d6e4-7ff7-c4a44302df60>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+260,<http://franz.com/synthea#6d95f190-0229-74cb-0150-aad3df985a8a>,CONTROLLED DIABETES,28,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+261,<http://franz.com/synthea#d94a37ac-5ffb-f211-5dd9-326e385c1c21>,CONTROLLED DIABETES,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+262,<http://franz.com/synthea#875fcd4e-e223-c8f9-f94b-58cda4449219>,CONTROLLED DIABETES,39,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+263,<http://franz.com/synthea#9fe6a542-a197-c84c-2815-a5767a6209cf>,PRE-DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+264,<http://franz.com/synthea#78fb2d2c-c9e0-fff6-bffe-359f46bd6b9a>,UNCONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+265,<http://franz.com/synthea#bd7fbc0d-9ea0-2768-99ee-a97b7f25698c>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+266,<http://franz.com/synthea#d0f218cb-e692-a4ae-4e6b-1eea85ca175d>,CONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+267,<http://franz.com/synthea#f157edac-b81c-6882-6c9e-3478b34dc57c>,PRE-DIABETES,48,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+268,<http://franz.com/synthea#28f5b831-4330-8b2d-8c7d-12bef687f41b>,PRE-DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+269,<http://franz.com/synthea#2be03329-3bf7-6d58-0bd4-c2e817d06c46>,UNCONTROLLED DIABETES,46,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+270,<http://franz.com/synthea#087cdc8c-fdf5-0b03-a59d-a5fb523d903c>,CONTROLLED DIABETES,46,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+271,<http://franz.com/synthea#c01f513a-3ad0-213d-abc1-2beb34980991>,NON-DIABETIC,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+272,<http://franz.com/synthea#2fe7a5d1-17ca-70eb-1174-605c16df1d1f>,CONTROLLED DIABETES,32,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+273,<http://franz.com/synthea#937062ce-7428-35de-ae0e-fe5fd45b72ea>,PRE-DIABETES,32,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+274,<http://franz.com/synthea#0cb5a377-5d9c-7d46-4048-955a8ebf5a75>,CONTROLLED DIABETES,54,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+275,<http://franz.com/synthea#bccfc56e-b53e-ba24-cc14-243e78c415a5>,UNCONTROLLED DIABETES,57,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+276,<http://franz.com/synthea#1d14207d-c5c7-4ad2-70ca-ad7bc5751292>,CONTROLLED DIABETES,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+277,<http://franz.com/synthea#4c743be4-25c5-fb59-c3ec-72ae26d869c6>,CONTROLLED DIABETES,29,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+278,<http://franz.com/synthea#4997fc41-ef4d-84ca-afd0-f144394bef05>,CONTROLLED DIABETES,48,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+279,<http://franz.com/synthea#1ffa1aa1-aae8-2bea-7a9d-174b199a65a9>,UNCONTROLLED DIABETES,43,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+280,<http://franz.com/synthea#e2d4b3b2-03ec-4948-f293-ee3da586c60b>,PRE-DIABETES,41,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+281,<http://franz.com/synthea#c4372893-8c27-b4a5-604b-fd1c8b9dc306>,NON-DIABETIC,45,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+282,<http://franz.com/synthea#a4a3af8b-ba7a-0a74-84cd-4eb451f6d3ee>,PRE-DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+283,<http://franz.com/synthea#e5585b75-4883-089f-0803-8a8d96b334ad>,CONTROLLED DIABETES,56,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+284,<http://franz.com/synthea#fe4cfee9-bb47-9e43-d4c6-af0f88c5819c>,PRE-DIABETES,50,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+285,<http://franz.com/synthea#c9422d5d-9da8-c3db-acee-e867d1e5041a>,CONTROLLED DIABETES,24,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+286,<http://franz.com/synthea#cc927734-7654-81f9-ce3e-7f3cd225c0e0>,UNCONTROLLED DIABETES,50,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+287,<http://franz.com/synthea#b5b21269-f0eb-fa3d-89f9-167fe1db7d42>,PRE-DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+288,<http://franz.com/synthea#c96ffdae-3c2f-7b2a-129e-10786af6b884>,NON-DIABETIC,58,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+289,<http://franz.com/synthea#2754daea-db34-c685-02d5-412ff2622920>,CONTROLLED DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+290,<http://franz.com/synthea#715dfe26-1491-1822-f133-e35f65952d17>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+291,<http://franz.com/synthea#5ac97a71-605c-51df-e19a-1dae60aaad94>,CONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+292,<http://franz.com/synthea#0cfe48d2-b110-3f57-d312-2c500691654e>,PRE-DIABETES,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+293,<http://franz.com/synthea#d8de4844-90a9-5228-7273-db9c41cdf90b>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+294,<http://franz.com/synthea#1d39fa5d-8e7f-34a7-b6f1-081729dd9b4c>,NON-DIABETIC,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+295,<http://franz.com/synthea#c3fdf27e-926b-cc3e-eaf6-5b7bde22e20d>,NON-DIABETIC,58,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+296,<http://franz.com/synthea#d3a97cd2-17dc-8f87-0498-e8f93bb43578>,CONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+297,<http://franz.com/synthea#614f5afb-aef0-2cee-2e97-1d1394cd9020>,CONTROLLED DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+298,<http://franz.com/synthea#1c21fb24-e256-46b2-4c69-b0b621d46932>,CONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+299,<http://franz.com/synthea#317a8a5e-3390-c07c-dac8-dc038fb10546>,CONTROLLED DIABETES,41,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+300,<http://franz.com/synthea#759fccc7-ef73-3511-6051-f0b7e71d6bb7>,CONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+301,<http://franz.com/synthea#a81b7d8e-485e-af4c-ee8b-317a4e26cabb>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+302,<http://franz.com/synthea#683decfc-82f0-b652-764b-f98afc51c5c3>,CONTROLLED DIABETES,32,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+303,<http://franz.com/synthea#d2148e85-4315-de8b-09f6-52a6a99085ea>,CONTROLLED DIABETES,29,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+304,<http://franz.com/synthea#9293ec0d-e8ae-b32f-7eda-02f80b2dcad4>,CONTROLLED DIABETES,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+305,<http://franz.com/synthea#8886b420-bf21-3ff4-d807-3c7e41c40e32>,UNCONTROLLED DIABETES,33,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+306,<http://franz.com/synthea#46538fdf-e070-29f8-55ca-9a0725498c94>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+307,<http://franz.com/synthea#c33a731d-5862-f589-e4f3-6e770351e7af>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+308,<http://franz.com/synthea#8efa9bae-dde1-2ee3-dedc-135c631aa393>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+309,<http://franz.com/synthea#8038d52d-86d5-7099-f5c4-30b791488fb2>,UNCONTROLLED DIABETES,41,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+310,<http://franz.com/synthea#0384b5df-3e8e-9bb7-5a9f-26ab451df4e7>,CONTROLLED DIABETES,25,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+311,<http://franz.com/synthea#6b471adc-6996-f073-6b1d-c6d6020a846f>,CONTROLLED DIABETES,26,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+312,<http://franz.com/synthea#6c1485d7-5b30-0765-af1b-018e2a170d05>,CONTROLLED DIABETES,43,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+313,<http://franz.com/synthea#79960eaf-db65-ece6-881e-e50d57e6d461>,NON-DIABETIC,41,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+314,<http://franz.com/synthea#e3ebdad0-1268-1993-5ecc-6cd3553af2c9>,CONTROLLED DIABETES,28,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+315,<http://franz.com/synthea#b580781d-607e-24bc-2528-9d540cc02b81>,CONTROLLED DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+316,<http://franz.com/synthea#389d1ae1-420b-ffbe-f64b-bb456f0349cb>,CONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+317,<http://franz.com/synthea#7e44c892-d444-6ba2-52bf-1bfd48f07cc6>,CONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+318,<http://franz.com/synthea#fce1d4d6-4bb9-4b1b-5892-936a8becbae8>,CONTROLLED DIABETES,32,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+319,<http://franz.com/synthea#17a809ef-803a-4cef-fa1b-53161fba78e8>,UNCONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+320,<http://franz.com/synthea#b3b6ab0c-bb7a-64f3-6e3b-e3724da15e73>,CONTROLLED DIABETES,50,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+321,<http://franz.com/synthea#121c3671-de0d-fe8d-68cf-96f2f954a0ee>,CONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+322,<http://franz.com/synthea#48253861-745e-35f3-b376-93bf5de4d135>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+323,<http://franz.com/synthea#76e47332-9b55-bf74-a625-6b1c84059086>,CONTROLLED DIABETES,30,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+324,<http://franz.com/synthea#7129fbcd-dc46-8c38-700d-c0ab704d8dc4>,CONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+325,<http://franz.com/synthea#10c53691-6816-78a2-998c-956ee4ad7f5b>,UNCONTROLLED DIABETES,33,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+326,<http://franz.com/synthea#425a0e5e-d339-7b8f-d56e-1824ad1b4c8d>,PRE-DIABETES,55,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+327,<http://franz.com/synthea#8ab67876-e38b-c3ec-fffe-6c36fb38175b>,NON-DIABETIC,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+328,<http://franz.com/synthea#7fad1c5b-967e-2532-b876-1c5f448061d9>,CONTROLLED DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+329,<http://franz.com/synthea#1b64ab87-ee1f-2fbe-a221-088b66c91b0d>,CONTROLLED DIABETES,61,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+330,<http://franz.com/synthea#8bfe7888-592d-4101-7be4-c7f050f49deb>,CONTROLLED DIABETES,26,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+331,<http://franz.com/synthea#7dfb2a85-5fd7-0320-439f-8e10fa93e475>,PRE-DIABETES,38,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+332,<http://franz.com/synthea#2b37ff49-7a11-0fa0-5adc-5b3555de0ffd>,CONTROLLED DIABETES,38,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+333,<http://franz.com/synthea#dd4b3c6a-27a3-ea87-2ea0-73aee427afdd>,CONTROLLED DIABETES,43,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+334,<http://franz.com/synthea#447cd693-44ce-5f29-29cf-1a9c5f05141f>,CONTROLLED DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+335,<http://franz.com/synthea#7c53bbe7-44a3-3cb3-a192-8695e2312b70>,CONTROLLED DIABETES,28,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+336,<http://franz.com/synthea#b65b5429-63c4-a631-177a-515888e7b1c9>,CONTROLLED DIABETES,45,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+337,<http://franz.com/synthea#30f41487-209c-f54a-72bd-4611e614d2ef>,UNCONTROLLED DIABETES,39,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+338,<http://franz.com/synthea#4bca1f58-58dc-e42f-2150-d4c798e1da6e>,CONTROLLED DIABETES,53,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+339,<http://franz.com/synthea#2cadfad4-ada8-55d6-1527-f1974634fffe>,PRE-DIABETES,50,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+340,<http://franz.com/synthea#d03c5420-744a-2091-16f4-97f630030859>,CONTROLLED DIABETES,33,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+341,<http://franz.com/synthea#d61c02b6-3a62-c6b5-47c5-f9372862a83a>,CONTROLLED DIABETES,34,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+342,<http://franz.com/synthea#acfd470e-4b52-b22e-c631-0932e5bc7bfd>,PRE-DIABETES,54,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+343,<http://franz.com/synthea#ad71c514-76b4-e23a-a8ce-3fd6f9c6443a>,NON-DIABETIC,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+344,<http://franz.com/synthea#8f019ca0-24a3-53cd-cd3f-16c1bf239028>,CONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+345,<http://franz.com/synthea#3250070b-452a-97a3-41b5-3fbc6cb14d8f>,UNCONTROLLED DIABETES,45,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+346,<http://franz.com/synthea#e3b6f4f7-cc85-01ed-f371-08f66ec26c3b>,PRE-DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+347,<http://franz.com/synthea#cac85630-7c44-b2f8-666d-0d2ac46595bd>,CONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+348,<http://franz.com/synthea#60ba617e-cf9a-ad3a-700a-fb20716f1a0a>,CONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+349,<http://franz.com/synthea#2d540d73-c10a-ea94-8894-370d2bea5ccb>,CONTROLLED DIABETES,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+350,<http://franz.com/synthea#97061096-293d-d954-186a-9cbde01770d3>,UNCONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+351,<http://franz.com/synthea#e5d87f55-8e51-1536-6e2d-dd95d03dc3d2>,CONTROLLED DIABETES,40,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+352,<http://franz.com/synthea#1c381aa3-cd6a-18e7-0e41-f314a6f67c28>,CONTROLLED DIABETES,22,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+353,<http://franz.com/synthea#32bd1694-c5f3-9487-5f2f-7984866f3de5>,CONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+354,<http://franz.com/synthea#ba7d991e-d674-692a-47ff-d3a421116319>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+355,<http://franz.com/synthea#884a3d33-14c7-374d-4175-efd9e2685dab>,CONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+356,<http://franz.com/synthea#db31037e-298f-8dc4-7622-f1a828dd98ab>,UNCONTROLLED DIABETES,44,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+357,<http://franz.com/synthea#7168fa8c-a139-2d95-9283-0427cb207789>,NON-DIABETIC,54,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+358,<http://franz.com/synthea#32e91854-554c-6d1c-2e05-933c8b63c8dd>,UNCONTROLLED DIABETES,42,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+359,<http://franz.com/synthea#0539d5b7-aff4-6637-0709-3bb738045d90>,NON-DIABETIC,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011881>
+360,<http://franz.com/synthea#61ff22a1-3cc4-b655-6118-448fb6f60f24>,UNCONTROLLED DIABETES,51,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+361,<http://franz.com/synthea#63eef1d0-5ecc-82ab-7313-8529a97878a0>,PRE-DIABETES,20,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+362,<http://franz.com/synthea#72ca7af5-e221-b63a-356a-5f4cd89be037>,UNCONTROLLED DIABETES,52,M,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+363,<http://franz.com/synthea#13d92bfb-76dc-3a19-82a5-fb0ab0137a2d>,CONTROLLED DIABETES,37,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+364,<http://franz.com/synthea#b1c8516c-1ceb-1fd4-2347-066167eb807b>,UNCONTROLLED DIABETES,40,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+365,<http://franz.com/synthea#d06e1d13-0ce5-6933-73c6-4174c76e3422>,CONTROLLED DIABETES,53,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+366,<http://franz.com/synthea#71b59b6f-df23-9ea0-527b-5bdbefacf6e3>,UNCONTROLLED DIABETES,46,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+367,<http://franz.com/synthea#cbe92342-3f4f-98b3-cd06-bba722ad4d51>,UNCONTROLLED DIABETES,31,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+368,<http://franz.com/synthea#61fa8e3e-cfc4-4518-026b-ad6e09c25582>,CONTROLLED DIABETES,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+369,<http://franz.com/synthea#94a73212-6d39-1ff6-2612-72653328b041>,PRE-DIABETES,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+370,<http://franz.com/synthea#bbfe1951-f63f-5920-89d2-d5dc4c7f521c>,UNCONTROLLED DIABETES,39,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+371,<http://franz.com/synthea#0b0cc5f6-7deb-7bd9-3627-dc3cbc67455a>,CONTROLLED DIABETES,41,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+372,<http://franz.com/synthea#588b818c-daf8-2332-ce22-827c28bc301b>,CONTROLLED DIABETES,24,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+373,<http://franz.com/synthea#55b48736-fa14-bb6a-98cc-76db7f8b65d1>,NON-DIABETIC,51,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+374,<http://franz.com/synthea#954de95a-3211-5478-34e4-cc24a543f8db>,CONTROLLED DIABETES,43,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+375,<http://franz.com/synthea#5dedd21b-170b-7099-85a0-52cb94727d1e>,UNCONTROLLED DIABETES,37,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+376,<http://franz.com/synthea#23a9c65d-d5e4-4d46-71aa-63c87f4a771a>,CONTROLLED DIABETES,33,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+377,<http://franz.com/synthea#a3154f2a-034c-2347-b144-98e64bc90a3a>,UNCONTROLLED DIABETES,64,F,<https://uts.nlm.nih.gov/uts/umls/concept/C1719950>
+378,<http://franz.com/synthea#74e42f80-9eab-3cb2-90ef-090e6f185149>,CONTROLLED DIABETES,59,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0020456>
+379,<http://franz.com/synthea#6e50c4cf-ba4f-0f8c-61df-21884a71c5bb>,CONTROLLED DIABETES,29,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+380,<http://franz.com/synthea#aa2d243f-69a4-4a4a-5d5a-c05a968946c5>,UNCONTROLLED DIABETES,42,F,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+381,<http://franz.com/synthea#10914930-80a7-5d07-a7fd-804e97de4b80>,CONTROLLED DIABETES,31,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+382,<http://franz.com/synthea#aa7c0fb3-d424-0b76-0e1e-286597a3ebd8>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+383,<http://franz.com/synthea#2bbcbc97-ffc7-5003-f2b5-90413978d283>,CONTROLLED DIABETES,38,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+384,<http://franz.com/synthea#00fff0d1-a5a8-0d54-f391-f0492a83a92b>,CONTROLLED DIABETES,25,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+385,<http://franz.com/synthea#96470c0d-11f1-e78c-2476-4994548c05e0>,PRE-DIABETES,34,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+386,<http://franz.com/synthea#16eead62-b6ef-747b-fbb3-fb4f6e4353ab>,CRITICALLY HIGH,52,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0524620>
+387,<http://franz.com/synthea#402bbd41-8634-0dd7-8b4a-59370960b6c6>,CONTROLLED DIABETES,40,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+388,<http://franz.com/synthea#c430c755-c2e4-e9a4-5b42-6ffaa778f521>,PRE-DIABETES,28,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+389,<http://franz.com/synthea#3ecf8875-294d-6ea4-05fd-3ea9bcf2f412>,CONTROLLED DIABETES,19,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+390,<http://franz.com/synthea#3c5bf1ca-14bc-1e3b-63d9-e2b2abb3f6a9>,CONTROLLED DIABETES,22,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+391,<http://franz.com/synthea#de9cd26a-2e42-314e-e1e2-447191319e4c>,CONTROLLED DIABETES,26,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+392,<http://franz.com/synthea#f7121422-54d1-a0ea-cba1-deb08f79f87d>,CONTROLLED DIABETES,44,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+393,<http://franz.com/synthea#2d1bc8b1-9137-7c04-c113-769816ca94f0>,UNCONTROLLED DIABETES,51,M,<https://uts.nlm.nih.gov/uts/umls/concept/C4076547>
+394,<http://franz.com/synthea#bc3f63c2-88f0-4b77-9147-36e3c16a9930>,CONTROLLED DIABETES,55,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+395,<http://franz.com/synthea#53995305-46e8-f47a-0aa1-634ddf47e664>,CONTROLLED DIABETES,44,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+396,<http://franz.com/synthea#e07769f8-17a3-78f5-acac-c6316fc179e0>,UNCONTROLLED DIABETES,32,M,<https://uts.nlm.nih.gov/uts/umls/concept/C0011860>
+397,<http://franz.com/synthea#c14c26ef-304c-9413-ec8a-d422cb07d4b6>,CONTROLLED DIABETES,47,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
+398,<http://franz.com/synthea#7016c913-1c5a-8cf4-c98b-b158f7583aa4>,CONTROLLED DIABETES,35,F,<https://uts.nlm.nih.gov/uts/umls/concept/C0362046>
