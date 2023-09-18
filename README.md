@@ -36,6 +36,10 @@ More than 70-80% of data in clinical encounters are documented as clinical notes
 We can then use a NER (Name Entity Resolution) model to resolve entities to UMLS (Unified Medical Language System) concepts. For this demo, we will be using a UMLS tool to do a lookup of these concepts.
 ![Biomedical NER](/image/biomedical_ner.png "Biomedical NER")
 
+We will also be using the opentext capture API service with the 'Lab Report Information Extraction' profile to extract structured data from the image documents of lab reports and other image based patient records:
+
+![open text core capture](/image/opentext_corecapture.png "Open Text Core Capture")
+
 ## Project Setup and Run
 The project has dependency on `streamlit` python library to create dashboards. It can be installed using following pip command:
 
